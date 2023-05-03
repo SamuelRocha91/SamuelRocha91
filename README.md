@@ -6,9 +6,3 @@ Eu me chamo Samuel Rocha, sou baiano, soteropolitano, tenho 31 anos e ingressei 
 
   <img width="60px" heigth="40px" src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' /> <img width="60px" heigth="40px" src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' /> <img width="60px" heigth="40px" src='https://cdn-icons-png.flaticon.com/512/6124/6124995.png' /> <img width="60px" heigth="40px" src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' /> <img width="60px" heigth="40px" src='https://cdn-icons-png.flaticon.com/512/1183/1183672.png' />
 - 📫 Você pode me contactar através do <a href="https://www.linkedin.com/in/samuel-rocha-88278224a/" target="_blank"><img width="18px" heigth="10px" src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png' /></a> <a href="https://www.instagram.com/sam_sr91/" target="_blank"><img width="18px" heigth="10px" src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png' /></a>
-
-![SamuelRocha91 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelRocha91&show_icons=true&theme=transparent)](https://github.com/SamuelRocha91/github-readme-stats)
-
-SamuelRocha91/SamuelRocha91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
