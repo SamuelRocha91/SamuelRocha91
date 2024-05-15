@@ -1,4 +1,6 @@
-👋 Olá, seja bem-vindo(a) ao meu Github! 
+:sunny: Aôoooooooooooooooooooooooooooooooooooooo
+
+👋 Seja bem-vindo(a) ao meu Github! 
 
 Eu me chamo Samuel Rocha, sou um desenvolvedor web dedicado, natural de Salvador, Bahia. A minha jornada no mundo do desenvolvimento teve início na [Trybe](https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-372340162995&hsa_kw=trybe&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAtbqdBhDvARIsAGYnXBO9Zx53yWIS_-tfcYOZUJSJYr82nbHdzTtee8rUMaHAU6CgCK1rUjMaAkPVEALw_wcB), onde pude me aprofundar em conhecimentos técnicos e comportamentais.
 
@@ -9,9 +11,9 @@ Eu me chamo Samuel Rocha, sou um desenvolvedor web dedicado, natural de Salvador
 
 📚 Estudos Atuais:
 
-  -  🖥️ Front-End: React.js, HTML, CSS;
-  -  📡 Back-End: Node.js, Docker, MySql;
-  - 💡 Outras tecnologias: Java, Python, TypeScript;
+  -  🖥️ Front-End: Vue.js, Pinia, Bootstrap;
+  -  📡 Back-End: Ruby on Rails, Docker, MySql;
+  - 💡 Outras tecnologias: Java, Python, TypeScript, Javascript, React;
 
 📫 Como Entrar em Contato:
 
