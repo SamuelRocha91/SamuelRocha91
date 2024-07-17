@@ -13,10 +13,12 @@ Eu me chamo Samuel Rocha, sou um desenvolvedor web dedicado, natural de Salvador
 
   -  🖥️ Front-End: Vue.js, Pinia, Bootstrap;
   -  📡 Back-End: Java, Spring framework;
-  -  📖 [Clube do livro](https://discord.gg/tHQa4CRr?event=1260381177341153373): **Structure and Interpretation of Computer Programs**(Capítulo 1, Building Abstractions with Functions);
+  -  📖 [Clube do livro](https://discord.gg/tHQa4CRr?event=1260381177341153373)**: **Structure and Interpretation of Computer Programs - Harold Abelson and Gerald Jay Sussman**
   -  💡 Outras tecnologias: Ruby on Rails, Python, TypeScript, Javascript, React;
 
-** **Reuniões quinzenais. Link do evento do dia 23/07/2024 às 19 horas. Aberto ao público;**
+** **Objeto do encontro: (Capítulo 1, Building Abstractions with Functions);**
+
+** **Reuniões quinzenais. Link do evento do dia 23/07/2024 às 19 horas.**
 
 📫 Como Entrar em Contato:
 
