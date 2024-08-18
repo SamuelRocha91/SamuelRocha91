@@ -22,7 +22,7 @@ Eu me chamo Samuel Rocha, sou um desenvolvedor web dedicado, natural de Salvador
   -  💼 <a href="https://www.linkedin.com/in/samuel-rocha-88278224a/" target="_blank">Linkedin</a> ;
   -  📱 <a href="https://wa.me/71992594946" target="_blank"> Whathsapp</a>
   -  📧 [E-mail](mailto:samuel_sr@hotmail.com.br)
-  -  :diamond_shape_with_a_dot_inside:  Discord: samuelrocha91#1234 
+  -  :diamond_shape_with_a_dot_inside:  Discord: samuelrocha91#1543 
 
 ** **Estou em busca de pessoas interessadas em formar um grupo de leitura na área de desenvolvimento para debates quinzenais sobre capítulos de livros. Se tiver interesse, sinta-se à vontade para me contatar. (É só mandar um "☀️ Aôooo " 😅👍)**
 
