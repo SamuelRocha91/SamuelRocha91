@@ -8,23 +8,23 @@ Eu me chamo Samuel Rocha, sou um desenvolvedor web dedicado, natural de Salvador
 
  -  👀 Estou aberto a novos contatos, propostas laborais e a troca de experiências;
  -  🚀 Busco constantemente desenvolver projetos inovadores e adquirir novos conhecimentos.
+ -  :coffee: Estou focado em aprimorar minhas habilidades em Kotlin e Java, além de me dedicar a leituras técnicas. 
 
-📚 Estudos Atuais:
+📚 Habilidades:
 
-  -  🖥️ Front-End: Vue.js, Pinia, Bootstrap;
-  -  📡 Back-End: Java, Spring framework;
-  -  📖 [Clube do livro](https://discord.gg/tHQa4CRr?event=1260381177341153373)**: **Structure and Interpretation of Computer Programs - Harold Abelson and Gerald Jay Sussman**
-  -  💡 Outras tecnologias: Ruby on Rails, Python, TypeScript, Javascript, React;
-
-** **Objeto do encontro: (Capítulo 1, Building Abstractions with Functions);**
-
-** **Reuniões quinzenais. Link do evento do dia 23/07/2024 às 19 horas.**
+  -  🖥️ Front-End: Vue.js, React.js;
+  -  📡 Back-End: Node.js, Spring framework, Ruby on Rails;
+  -  📖 Linguagens de programação: Java, Javascript, Typescript.
+  -  💡 Outras tecnologias: Docker, Mysql, Express, Redux, Jest, Junit;
 
 📫 Como Entrar em Contato:
 
   -  💼 <a href="https://www.linkedin.com/in/samuel-rocha-88278224a/" target="_blank">Linkedin</a> ;
   -  📱 <a href="https://wa.me/71992594946" target="_blank"> Whathsapp</a>
   -  📧 [E-mail](mailto:samuel_sr@hotmail.com.br)
+  -  :diamond_shape_with_a_dot_inside:  Discord: samuelrocha91#1234 
+
+** **Estou em busca de pessoas interessadas em formar um grupo de leitura na área de desenvolvimento para debates quinzenais sobre capítulos de livros. Se tiver interesse, sinta-se à vontade para me contatar. (É só mandar um "☀️ Aôooo " 😅👍)**
 
 📊 Estatísticas do Meu GitHub:
 
