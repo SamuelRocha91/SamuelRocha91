@@ -1,32 +1,64 @@
-:sunny: Aôoooooooooooooooooooooooooooooooooooooo
+<h1>:sunny: Aôoooooooooooooooooooooo! </h1>
 
-👋 Seja bem-vindo(a) ao meu Github! 
+👋 Olá, tudo bem?
 
-Eu me chamo Samuel Rocha, sou um desenvolvedor web dedicado, natural de Salvador, Bahia. A minha jornada no mundo do desenvolvimento teve início na [Trybe](https://www.betrybe.com/?utm_term=trybe&utm_campaign=*%5BSearch%5D+Brand_BRA&utm_source=adwords&utm_medium=ppc&hsa_acc=1466424558&hsa_cam=12085736593&hsa_grp=146119280611&hsa_ad=617838452283&hsa_src=g&hsa_tgt=kwd-372340162995&hsa_kw=trybe&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAtbqdBhDvARIsAGYnXBO9Zx53yWIS_-tfcYOZUJSJYr82nbHdzTtee8rUMaHAU6CgCK1rUjMaAkPVEALw_wcB), onde pude me aprofundar em conhecimentos técnicos e comportamentais.
+<div>
+  <p>Como posso ajudar? 🥰</p>
+  <p>Que tal dar uma olhadinha no nosso menu? 🧾</p>
+  <ul>
+    <li>
+      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu" target="_blank">Projeto Kotlin Virtual Menu</a>
+    </li>
+  </ul>
+  <p>
+    👩‍🍳 Fique tranquilo(a), estamos atentos a restrições alimentares! 😉
+      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Projeto Restaurant Orders</a>
+  </p>
+</div>
 
-🌱 Meus Interesses e Atualizações:
+<p>Se o seu desafio é gerenciar sua fazenda, encontrou o lugar certo! 🎯</p>
+<ul>
+  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Projeto Agrix - Gerenciamento de Fazendas</a></li>
+</ul>
+<p>Porque, afinal, como haveria alimento sem quem o produz? 🤔👀</p>
 
- -  👀 Estou aberto a novos contatos, propostas laborais e a troca de experiências;
- -  🚀 Busco constantemente desenvolver projetos inovadores e adquirir novos conhecimentos.
- -  :coffee: Estou focado em aprimorar minhas habilidades em Kotlin e Java, além de me dedicar a leituras técnicas. 
+<p>Mas em verdade eu vos digo: toda aplicação de alimento é pouca. 🤪🚀🤷 </p>
+<p>Vamos juntos superar os gargalos da comercialização de alimentos! 💯🥗</p>
+<ul>
+  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">Backend - Ruby On Rails</a></li>
+  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js (Consumidor)</a></li>
+  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">Frontend - Vue.js (Vendedor)</a></li>
+</ul>
 
-📚 Habilidades:
+<h2>🧑 Sobre Mim:</h2>
+<p>Samuel Rocha, baiano🇧🇷, soteropolitano⚫🔴 e desenvolvedor web.</p>
 
-  -  🖥️ Front-End: Vue.js, React.js;
-  -  📡 Back-End: Node.js, Spring framework, Ruby on Rails;
-  -  📖 Linguagens de programação: Java, Javascript, Typescript.
-  -  💡 Outras tecnologias: Docker, Mysql, Express, Redux, Jest, Junit;
+<h2>💻 Meus Interesses:</h2>
+<p>Aberto a trocar experiências, criar novos projetos e a receber propostas laborais, casoriais, futebolisticas e praieiras! 😄</p>
 
-📫 Como Entrar em Contato:
+<h2>📚 Áreas de Estudo:</h2>
+<ul>
+  <li>🖥️ Front-End: Vue.js, React.js</li>
+  <li>📡 Back-End: Node.js, Spring Framework, Ruby on Rails</li>
+  <li>📖 Linguagens de Programação: Java, JavaScript, TypeScript</li>
+  <li>💡 Outras Tecnologias: Docker, MySQL, Express, Redux, Jest, JUnit</li>
+</ul>
 
-  -  💼 <a href="https://www.linkedin.com/in/samuel-rocha-88278224a/" target="_blank">Linkedin</a> ;
-  -  📱 <a href="https://wa.me/71992594946" target="_blank"> Whathsapp</a>
-  -  📧 [E-mail](mailto:samuel_sr@hotmail.com.br)
-  -  :diamond_shape_with_a_dot_inside:  Discord: samuelrocha91#1543 
+<h2>📫 Como Entrar em Contato:</h2>
+<ul>
+  <li>💼 <a href="https://www.linkedin.com/in/samuel-rocha-88278224a/" target="_blank">LinkedIn</a></li>
+  <li>📱 <a href="https://wa.me/71992594946" target="_blank">WhatsApp</a></li>
+  <li>📧 <a href="mailto:samuel_sr@hotmail.com.br">E-mail</a></li>
+  <li>💬 Discord: samuelrocha91#1543</li>
+</ul>
 
-** **Estou em busca de pessoas interessadas em formar um grupo de leitura na área de desenvolvimento para debates quinzenais sobre capítulos de livros. Se tiver interesse, sinta-se à vontade para me contatar. (É só mandar um "☀️ Aôooo " 😅👍)**
+<h2>📚 Grupo de Leitura:</h2>
+<p>
+  Estou tentando formar um grupo de leitura na área de tecnologia para debates quinzenais sobre capítulos de livros ininteligíveis. 
+  Se tiver interesse, me manda um "☀️Aôooo"! 😅👍
+</p>
 
-📊 Estatísticas do Meu GitHub:
+<h2>📊 Estatísticas do Meu GitHub:</h2>
 
 [![SamuelRocha91 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRocha91)](https://github.com/SamuelRocha91/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRocha91&langs_count=8&layout=compact)
