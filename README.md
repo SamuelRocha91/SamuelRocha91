@@ -12,13 +12,13 @@
   </ul>
   <p>
     👩‍🍳 Fique tranquilo(a), estamos atentos a restrições alimentares! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Projeto Restaurant Orders</a>
+      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Projeto Python Restaurant Orders</a>
   </p>
 </div>
 
 <p>Se o seu desafio é gerenciar sua fazenda, encontrou o lugar certo! 🎯</p>
 <ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Projeto Agrix - Gerenciamento de Fazendas</a></li>
+  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Projeto Java Agrix - Gerenciamento de Fazendas</a></li>
 </ul>
 <p>Porque, afinal, como haveria alimento sem quem o produz? 🤔👀</p>
 
@@ -26,8 +26,8 @@
 <p>Vamos juntos superar os gargalos da comercialização de alimentos! 💯🥗</p>
 <ul>
   <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">Backend - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js (Consumidor)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">Frontend - Vue.js (Vendedor)</a></li>
+  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js && Typescript (Consumidor)</a></li>
+  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">Frontend - Vue.js && Typescript (Vendedor)</a></li>
 </ul>
 
 <h2>🧑 Sobre Mim:</h2>
