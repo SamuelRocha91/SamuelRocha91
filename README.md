@@ -34,7 +34,7 @@
 <p>Samuel Rocha, baiano🇧🇷, soteropolitano⚫🔴 e desenvolvedor web.</p>
 
 <h2>💻 Meus Interesses:</h2>
-<p>Aberto a trocar experiências, criar novos projetos e a receber propostas laborais, casoriais, futebolisticas e praieiras! 😄</p>
+<p>Aberto a trocar experiências, criar novos projetos, receber propostas laborais e fazer novas amizades </p>
 
 <h2>📚 Áreas de Estudo:</h2>
 <ul>
