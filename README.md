@@ -22,6 +22,7 @@
 </ul>
 <p>Porque, afinal, como haveria alimento sem quem o produz? 🤔👀</p>
 
+<p>Conte com o WeatherApp📱 pra acompanhar as condições climáticas de sua terra 🌧️ <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Projeto Kotlin WeatherApp - Acompanhamento de clima</a></p>
 <p>Mas em verdade eu vos digo: toda aplicação de alimento é pouca. 🤪🚀🤷 </p>
 <p>Vamos juntos superar os gargalos da comercialização de alimentos! 💯🥗</p>
 <ul>
