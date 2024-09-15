@@ -8,6 +8,7 @@
   <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md" target="_blank">中文</a></li>
   <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md" target="_blank">العربية</a></li>
 </ul>
+
 👋 Olá, tudo bem?
 
 <div>
