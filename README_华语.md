@@ -32,7 +32,7 @@
 </ul>
 <p>毕竟，没有生产者，怎么会有食物呢？🤔👀</p>
 
-<p>用 WeatherApp📱 跟踪你土地上的天气条件 🌧️ <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Kotlin WeatherApp 项目 - 天气跟踪</a></p>
+<p>用 WeatherApp📱 跟踪你土地上的天气条件 🌧️ <a href="https://github.com/SamuelRocha91/kotlinWeatherApp" target="_blank">Kotlin WeatherApp 项目 - 天气跟踪</a></p>
 <p>但我告诉你：任何食物应用都不算多。🤪🚀🤷 </p>
 <p>让我们一起克服食品商业化的瓶颈！💯🥗</p>
 <ul>
