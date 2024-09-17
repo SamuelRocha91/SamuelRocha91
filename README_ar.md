@@ -17,18 +17,18 @@
   <p>ماذا عن إلقاء نظرة على قائمتنا؟ 🧾</p>
   <ul>
     <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu" target="_blank">مشروع قائمة الطعام الافتراضية باستخدام Kotlin</a>
+      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ar.md" target="_blank">مشروع قائمة الطعام الافتراضية باستخدام Kotlin</a>
     </li>
   </ul>
   <p>
     👩‍🍳 لا داعي للقلق، نحن نراعي القيود الغذائية! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">مشروع طلبات المطاعم باستخدام Python</a>
+      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ar.md" target="_blank">مشروع طلبات المطاعم باستخدام Python</a>
   </p>
 </div>
 
 <p>إذا كان تحديك هو إدارة مزرعتك، فقد وجدت المكان المناسب! 🎯</p>
 <ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">مشروع Agrix باستخدام Java - إدارة المزارع</a></li>
+  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix/blob/main/README_ar.md" target="_blank">مشروع Agrix باستخدام Java - إدارة المزارع</a></li>
 </ul>
 <p>لأنه، في النهاية، كيف سيكون هناك طعام بدون من ينتجه؟ 🤔👀</p>
 
@@ -39,9 +39,9 @@
 <p>ولكن، في الحقيقة، أقول لك: أي تطبيق غذائي يعتبر قليلًا. 🤪🚀🤷 </p>
 <p>لنواجه معًا تحديات تسويق الأغذية! 💯🥗</p>
 <ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">الواجهة الخلفية - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">الواجهة الأمامية - Vue.js && TypeScript (مستهلك)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">الواجهة الأمامية - Vue.js && TypeScript (بائع)</a></li>
+  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_ar.md" target="_blank">الواجهة الخلفية - Ruby On Rails</a></li>
+  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_ar.md" target="_blank">الواجهة الأمامية - Vue.js && TypeScript (مستهلك)</a></li>
+  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_ar.md" target="_blank">الواجهة الأمامية - Vue.js && TypeScript (بائع)</a></li>
 </ul>
 
 <h2>🧑 عني:</h2>

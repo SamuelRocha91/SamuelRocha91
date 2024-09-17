@@ -17,18 +17,18 @@
   <p>怎么样来看看我们的菜单？🧾</p>
   <ul>
     <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu" target="_blank">Kotlin Virtual Menu 项目</a>
+      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ch.md" target="_blank">Kotlin Virtual Menu 项目</a>
     </li>
   </ul>
   <p>
     👩‍🍳 放心，我们会注意饮食限制！😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Python Restaurant Orders 项目</a>
+      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ch.md" target="_blank">Python Restaurant Orders 项目</a>
   </p>
 </div>
 
 <p>如果你的挑战是管理你的农场，你来对地方了！🎯</p>
 <ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Java Agrix 项目 - 农场管理</a></li>
+  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix/blob/main/README_ch.md" target="_blank">Java Agrix 项目 - 农场管理</a></li>
 </ul>
 <p>毕竟，没有生产者，怎么会有食物呢？🤔👀</p>
 
@@ -39,9 +39,9 @@
 <p>但我告诉你：任何食物应用都不算多。🤪🚀🤷 </p>
 <p>让我们一起克服食品商业化的瓶颈！💯🥗</p>
 <ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">后台 - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">前端 - Vue.js && TypeScript (消费者)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">前端 - Vue.js && TypeScript (卖家)</a></li>
+  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_ch.md" target="_blank">后台 - Ruby On Rails</a></li>
+  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_ch.md" target="_blank">前端 - Vue.js && TypeScript (消费者)</a></li>
+  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_ch.md" target="_blank">前端 - Vue.js && TypeScript (卖家)</a></li>
 </ul>
 
 <h2>🧑 关于我：</h2>

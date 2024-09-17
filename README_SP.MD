@@ -17,18 +17,18 @@
   <p>¿Qué tal si le echas un vistazo a nuestro menú? 🧾</p>
   <ul>
     <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu" target="_blank">Proyecto Kotlin Virtual Menu</a>
+      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_es.md" target="_blank">Proyecto Kotlin Virtual Menu</a>
     </li>
   </ul>
   <p>
     👩‍🍳 ¡No te preocupes, estamos atentos a las restricciones alimentarias! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Proyecto Python Restaurant Orders</a>
+      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_es.md" target="_blank">Proyecto Python Restaurant Orders</a>
   </p>
 </div>
 
 <p>Si tu desafío es gestionar tu granja, ¡has llegado al lugar indicado! 🎯</p>
 <ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Proyecto Java Agrix - Gestión de Granjas</a></li>
+  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix/blob/main/README_es.md" target="_blank">Proyecto Java Agrix - Gestión de Granjas</a></li>
 </ul>
 <p>Porque, al final, ¿cómo habría comida sin quienes la producen? 🤔👀</p>
 
@@ -39,9 +39,9 @@
 <p>Pero en verdad te digo: nunca hay suficientes aplicaciones sobre alimentos. 🤪🚀🤷 </p>
 <p>¡Vamos juntos a superar los obstáculos de la comercialización de alimentos! 💯🥗</p>
 <ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">Backend - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js && Typescript (Consumidor)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">Frontend - Vue.js && Typescript (Vendedor)</a></li>
+  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_es.md" target="_blank">Backend - Ruby On Rails</a></li>
+  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_es.md" target="_blank">Frontend - Vue.js && Typescript (Consumidor)</a></li>
+  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_es.md" target="_blank">Frontend - Vue.js && Typescript (Vendedor)</a></li>
 </ul>
 
 <h2>🧑 Sobre Mí:</h2>

@@ -17,18 +17,18 @@
   <p>Как насчет того, чтобы взглянуть на наше меню? 🧾</p>
   <ul>
     <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu" target="_blank">Проект Kotlin Virtual Menu</a>
+      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ru.md" target="_blank">Проект Kotlin Virtual Menu</a>
     </li>
   </ul>
   <p>
     👩‍🍳 Не переживайте, мы учитываем диетические ограничения! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Проект Python Restaurant Orders</a>
+      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ru.md" target="_blank">Проект Python Restaurant Orders</a>
   </p>
 </div>
 
 <p>Если ваша задача — управление фермой, вы попали в нужное место! 🎯</p>
 <ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Проект Java Agrix - Управление фермами</a></li>
+  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrixb/blob/main/README_ru.md" target="_blank">Проект Java Agrix - Управление фермами</a></li>
 </ul>
 <p>Ведь, в конце концов, как бы появилась еда без тех, кто её производит? 🤔👀</p>
 
@@ -39,9 +39,9 @@
 <p>Но истинно говорю вам: приложений для еды никогда не бывает много. 🤪🚀🤷 </p>
 <p>Давайте вместе преодолевать трудности с коммерциализацией продуктов питания! 💯🥗</p>
 <ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">Backend - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js && TypeScript (Потребитель)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">Frontend - Vue.js && TypeScript (Продавец)</a></li>
+  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_ru.md" target="_blank">Backend - Ruby On Rails</a></li>
+  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_ru.md" target="_blank">Frontend - Vue.js && TypeScript (Потребитель)</a></li>
+  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_ru.md" target="_blank">Frontend - Vue.js && TypeScript (Продавец)</a></li>
 </ul>
 
 <h2>🧑 Обо Мне:</h2>
