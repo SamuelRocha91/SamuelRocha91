@@ -33,6 +33,9 @@
 <p>Because, after all, how could there be food without those who produce it? 🤔👀</p>
 
 <p>Count on WeatherApp📱 to track the weather conditions of your land 🌧️ <a href="https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_en.md" target="_blank">Kotlin WeatherApp Project - Climate Tracking</a></p>
+
+<p>Manage your water and gas consumption with the help of Artificial Intelligence🛢️💧 <a href="https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_en.md" target="_blank">React Consumption Measurement Project</a></p>
+
 <p>But I tell you the truth: all food-related apps are never enough. 🤪🚀🤷 </p>
 <p>Let’s overcome the hurdles of food commercialization together! 💯🥗</p>
 <ul>
