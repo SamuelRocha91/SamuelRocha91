@@ -32,10 +32,13 @@
 <p>Porque, afinal, como haveria alimento sem quem o produz? 🤔👀</p>
 
 <p>Conte com o WeatherApp📱 pra acompanhar as condições climáticas de sua terra 🌧️ <a href="https://github.com/SamuelRocha91/kotlinWeatherApp" target="_blank">Projeto Kotlin WeatherApp - Acompanhamento de clima</a></p>
-<p>Mas em verdade eu vos digo: toda aplicação de alimento é pouca. 🤪🚀🤷 </p>
 
 <p>Gerencie seu consumo de água e gás com ajuda de Inteligência Artificial🛢️💧 <a href="https://github.com/SamuelRocha91/precisionReactApplication" target="_blank">Projeto React de Medição de Consumo</a> </p>
+
+<p>Mas em verdade eu vos digo: toda aplicação de alimento é pouca. 🤪🚀🤷 </p>
 <p>Vamos juntos superar os gargalos da comercialização de alimentos! 💯🥗</p>
+
+
 <ul>
   <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">Backend - Ruby On Rails</a></li>
   <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js && Typescript (Consumidor)</a></li>
