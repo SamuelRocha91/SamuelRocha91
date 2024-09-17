@@ -17,18 +17,18 @@
   <p>How about taking a look at our menu? 🧾</p>
   <ul>
     <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu" target="_blank">Kotlin Virtual Menu Project</a>
+      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_en.md" target="_blank">Kotlin Virtual Menu Project</a>
     </li>
   </ul>
   <p>
     👩‍🍳 Don’t worry, we are mindful of dietary restrictions! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Python Restaurant Orders Project</a>
+      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_en.md" target="_blank">Python Restaurant Orders Project</a>
   </p>
 </div>
 
 <p>If your challenge is managing your farm, you’ve come to the right place! 🎯</p>
 <ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Java Agrix Project - Farm Management</a></li>
+  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md" target="_blank">Java Agrix Project - Farm Management</a></li>
 </ul>
 <p>Because, after all, how could there be food without those who produce it? 🤔👀</p>
 
@@ -39,9 +39,9 @@
 <p>But I tell you the truth: all food-related apps are never enough. 🤪🚀🤷 </p>
 <p>Let’s overcome the hurdles of food commercialization together! 💯🥗</p>
 <ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">Backend - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js && Typescript (Consumer)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">Frontend - Vue.js && Typescript (Seller)</a></li>
+  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_en.md" target="_blank">Backend - Ruby On Rails</a></li>
+  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_en.md" target="_blank">Frontend - Vue.js && Typescript (Consumer)</a></li>
+  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_en.md" target="_blank">Frontend - Vue.js && Typescript (Seller)</a></li>
 </ul>
 
 <h2>🧑 About Me:</h2>
