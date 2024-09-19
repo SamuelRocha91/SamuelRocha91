@@ -70,3 +70,4 @@
 
 [![SamuelRocha91 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRocha91)](https://github.com/SamuelRocha91/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRocha91&langs_count=8&layout=compact)
+![](https://api.visitorbadge.io/api/VisitorHit?user=SamuelRocha91&repo=SamuelRocha91-visitors-badge&countColor=%237B1E7A)
