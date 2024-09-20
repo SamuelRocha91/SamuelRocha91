@@ -1,40 +1,36 @@
 <h1>:sunny: Aôoooooooooooooooooooooo! </h1>
 
-<h2>🌐</h2>
-<ul>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md" target="_blank">Português</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD" target="_blank">Español</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD" target="_blank">English</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md" target="_blank">Русский</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md" target="_blank">中文</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md" target="_blank">العربية</a></li>
-</ul>
+
+## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
+
 
 👋 Olá, tudo bem?
 
 <div>
   <p>Como posso ajudar? 🥰</p>
   <p>Que tal dar uma olhadinha no nosso menu? 🧾</p>
-  <ul>
-    <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu" target="_blank">Projeto Kotlin Virtual Menu</a>
-    </li>
-  </ul>
-  <p>
-    👩‍🍳 Fique tranquilo(a), estamos atentos a restrições alimentares! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders" target="_blank">Projeto Python Restaurant Orders</a>
-  </p>
+    
+#### 🍽️ [Projeto Kotlin Virtual Menu](https://github.com/SamuelRocha91/kotlinVirtualMenu)
+  
+Fique tranquilo(a), estamos atentos a restrições alimentares! 😉
+    
+#### 👩‍🍳 [Projeto Python Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders)
+
 </div>
 
 <p>Se o seu desafio é gerenciar sua fazenda, encontrou o lugar certo! 🎯</p>
-<ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix" target="_blank">Projeto Java Agrix - Gerenciamento de Fazendas</a></li>
-</ul>
+
+#### 🌾 [Projeto Java Agrix - Gerenciamento de Fazendas](https://github.com/SamuelRocha91/Agrix) 
+
 <p>Porque, afinal, como haveria alimento sem quem o produz? 🤔👀</p>
 
-<p>Conte com o WeatherApp📱 pra acompanhar as condições climáticas de sua terra 🌧️ <a href="https://github.com/SamuelRocha91/kotlinWeatherApp" target="_blank">Projeto Kotlin WeatherApp - Acompanhamento de clima</a></p>
+<p>Conte com o WeatherApp📱 pra acompanhar as condições climáticas de sua terra</p>
+  
+#### 🌦️ [Projeto Kotlin Acompanhamento de clima](https://github.com/SamuelRocha91/kotlinWeatherApp) 
 
-<p>Gerencie seu consumo de água e gás com ajuda de Inteligência Artificial🛢️💧 <a href="https://github.com/SamuelRocha91/precisionReactApplication" target="_blank">Projeto React de Medição de Consumo</a> </p>
+<p>Gerencie seu consumo de água e gás com ajuda de Inteligência Artificial 🤖</p>
+
+#### 🛢️💧 [Projeto React de Medição de Consumo](https://github.com/SamuelRocha91/precisionReactApplication)
 
 <p>Mas em verdade eu vos digo: toda aplicação de alimento é pouca. 🤪🚀🤷 </p>
 <p>Vamos juntos superar os gargalos da comercialização de alimentos! 💯🥗</p>
