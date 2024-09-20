@@ -47,6 +47,11 @@
 <h2>🧑 About Me:</h2>
 <p>Samuel Rocha, from Bahia🇧🇷, born in Salvador⚫🔴, and web developer.</p>
 
+[![Full-Stack Web Development Course](https://img.shields.io/badge/-Certified_Web_Developer-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.credential.net/ad5e0984-fa07-41b0-a50b-51cb25fd0010#gs.ffccza)
+[![Certified Java Developer](https://img.shields.io/badge/-Certified_Java_Developer-red?style=flat&logo=java&logoColor=white)](https://www.credential.net/b0eedfe8-4280-4cc4-b832-49f1d9426664#gs.ffcj0a)
+[![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-yellow?style=flat&logo=javascript&logoColor=white)](https://www.freecodecamp.org/certification/Sam_sr91/javascript-algorithms-and-data-structures)
+
+
 <h2>💻 My Interests:</h2>
 <p>Open to exchanging experiences, creating new projects, receiving job offers, and making new friends</p>
 
