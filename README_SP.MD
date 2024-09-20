@@ -56,20 +56,39 @@
 <p>Abierto a intercambiar experiencias, crear nuevos proyectos, recibir ofertas de trabajo y hacer nuevas amistades</p>
 
 <h2>📚 Áreas de Estudio:</h2>
-<ul>
-  <li>🖥️ Front-End: Vue.js, React.js</li>
-  <li>📡 Back-End: Node.js, Spring Framework, Ruby on Rails</li>
-  <li>📖 Lenguajes de Programación: Java, JavaScript, TypeScript</li>
-  <li>💡 Otras Tecnologías: Docker, MySQL, Express, Redux, Jest, JUnit</li>
-</ul>
 
+### 🖥️ Front-End: 
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue-dot-js&logoColor=%234FC08D" alt="Vue.js" /></a> 
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" /></a>
+
+### 📡 Back-End:
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white" alt="Node.js" /></a>
+<a href="https://spring.io/" target="_blank"><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" /></a>
+<a href="https://rubyonrails.org/" target="_blank"><img src="https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" /></a>
+
+### 📖 Lenguajes de Programació:
+<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+
+### 💡 Otras Tecnologías:
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" /></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white" alt="Redux" /></a>
+<a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white" alt="Jest" /></a>
+<a href="https://junit.org/junit5/" target="_blank"><img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit" /></a>
+<a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black" alt="Swagger" /></a>
+
+<hr/>
 <h2>📫 Cómo Contactarme:</h2>
-<ul>
-  <li>💼 <a href="https://www.linkedin.com/in/samuel-rocha-88278224a/" target="_blank">LinkedIn</a></li>
-  <li>📱 <a href="https://wa.me/71992594946" target="_blank">WhatsApp</a></li>
-  <li>📧 <a href="mailto:samuel_sr@hotmail.com.br">E-mail</a></li>
-  <li>💬 Discord: samuelrocha91#1543</li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rocha-88278224a/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/71992594946)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel_sr@hotmail.com.br)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/samuelrocha91#1543)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuel_sr)
+
 
 <h2>📊 Estadísticas de Mi GitHub:</h2>
 
