@@ -1,48 +1,42 @@
 <h1>:sunny: Aôoooooooooooooooooooooo! </h1>
 
-<h2>🌐</h2>
-<ul>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md" target="_blank">Português</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD" target="_blank">Español</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD" target="_blank">English</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md" target="_blank">Русский</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md" target="_blank">中文</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md" target="_blank">العربية</a></li>
-</ul>
+
+## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
+
 
 👋 Hello, how are you?
 
 <div>
   <p>How can I help you? 🥰</p>
   <p>How about taking a look at our menu? 🧾</p>
-  <ul>
-    <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_en.md" target="_blank">Kotlin Virtual Menu Project</a>
-    </li>
-  </ul>
-  <p>
-    👩‍🍳 Don’t worry, we are mindful of dietary restrictions! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_en.md" target="_blank">Python Restaurant Orders Project</a>
-  </p>
+
+#### 🍽️ [Kotlin Virtual Menu Project](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_en.md)
+
+Don’t worry, we are mindful of dietary restrictions! 😉
+
+#### 👩‍🍳 [Python Restaurant Orders Project](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_en.md)
+
 </div>
 
 <p>If your challenge is managing your farm, you’ve come to the right place! 🎯</p>
-<ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md" target="_blank">Java Agrix Project - Farm Management</a></li>
-</ul>
+
+#### 🌾 [Java Agrix Project - Farm Management](https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md) 
+
 <p>Because, after all, how could there be food without those who produce it? 🤔👀</p>
 
-<p>Count on WeatherApp📱 to track the weather conditions of your land 🌧️ <a href="https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_en.md" target="_blank">Kotlin WeatherApp Project - Climate Tracking</a></p>
+#### 🌦️ [Kotlin WeatherApp Project - Climate Tracking](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_en.md) 
 
-<p>Manage your water and gas consumption with the help of Artificial Intelligence🛢️💧 <a href="https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_en.md" target="_blank">React Consumption Measurement Project</a></p>
+<p>Manage your water and gas consumption with the help of Artificial Intelligence</p>
+
+#### 🛢️💧 [React Consumption Measurement Project](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_en.md")
 
 <p>But I tell you the truth: all food-related apps are never enough. 🤪🚀🤷 </p>
 <p>Let’s overcome the hurdles of food commercialization together! 💯🥗</p>
-<ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_en.md" target="_blank">Backend - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_en.md" target="_blank">Frontend - Vue.js && Typescript (Consumer)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_en.md" target="_blank">Frontend - Vue.js && Typescript (Seller)</a></li>
-</ul>
+
+#### 📦 [Backend - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_en.md)
+#### 👨‍💻 [Frontend - Vue.js && Typescript (Consumer)](https://github.com/SamuelRocha91/consumy/blob/main/README_en.md)
+#### 👨‍💻 [Frontend - Vue.js && Typescript  (Seller)](https://github.com/SamuelRocha91/seller_application/blob/main/README_en.md)
+
 
 <h2>🧑 About Me:</h2>
 <p>Samuel Rocha, from Bahia🇧🇷, born in Salvador⚫🔴, and web developer.</p>

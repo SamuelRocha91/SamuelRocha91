@@ -1,48 +1,42 @@
 <h1>:sunny: أهلاً وسهلاً! </h1>
 
-<h2>🌐</h2>
-<ul>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md" target="_blank">Português</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD" target="_blank">Español</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD" target="_blank">English</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md" target="_blank">Русский</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md" target="_blank">中文</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md" target="_blank">العربية</a></li>
-</ul>
+## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
-👋 مرحباً، كيف حالك؟
+👋 مرحباً! كيف حالك اليوم؟
 
 <div>
   <p>كيف يمكنني مساعدتك؟ 🥰</p>
-  <p>ماذا عن إلقاء نظرة على قائمتنا؟ 🧾</p>
-  <ul>
-    <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ar.md" target="_blank">مشروع قائمة الطعام الافتراضية باستخدام Kotlin</a>
-    </li>
-  </ul>
-  <p>
-    👩‍🍳 لا داعي للقلق، نحن نراعي القيود الغذائية! 😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ar.md" target="_blank">مشروع طلبات المطاعم باستخدام Python</a>
-  </p>
+  <p>هل تريد الاطلاع على قائمتنا؟ 🧾</p>
+    
+#### 🍽️ [مشروع القائمة الافتراضية بـ Kotlin](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ar.md)
+
+لا تقلق، لقد أخذنا في الحسبان قيودك الغذائية! 😉
+    
+#### 👩‍🍳 [مشروع الطلبات للمطاعم بـ Python](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ar.md)
+
 </div>
 
-<p>إذا كان تحديك هو إدارة مزرعتك، فقد وجدت المكان المناسب! 🎯</p>
-<ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix/blob/main/README_ar.md" target="_blank">مشروع Agrix باستخدام Java - إدارة المزارع</a></li>
-</ul>
-<p>لأنه، في النهاية، كيف سيكون هناك طعام بدون من ينتجه؟ 🤔👀</p>
+<p>إذا كان هدفك هو إدارة مزرعتك، فأنت في المكان الصحيح! 🎯</p>
 
-<p>استخدم WeatherApp📱 لمتابعة الأحوال الجوية في أرضك 🌧️ <a href="https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ar.md" target="_blank">مشروع WeatherApp باستخدام Kotlin - متابعة الطقس</a></p>
+#### 🌾 [مشروع إدارة المزرعة بـ Java Agrix](https://github.com/SamuelRocha91/Agrix/blob/main/README_ar.md)
 
-<p>إدارة استهلاكك من الماء والغاز باستخدام الذكاء الاصطناعي🛢️💧 <a href="https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ar.md" target="_blank">مشروع React لقياس الاستهلاك</a></p>
+<p>في النهاية، من أين يأتي الطعام إذا لم يكن هناك مَن ينتجه؟ 🤔👀</p>
 
-<p>ولكن، في الحقيقة، أقول لك: أي تطبيق غذائي يعتبر قليلًا. 🤪🚀🤷 </p>
-<p>لنواجه معًا تحديات تسويق الأغذية! 💯🥗</p>
-<ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_ar.md" target="_blank">الواجهة الخلفية - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_ar.md" target="_blank">الواجهة الأمامية - Vue.js && TypeScript (مستهلك)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_ar.md" target="_blank">الواجهة الأمامية - Vue.js && TypeScript (بائع)</a></li>
-</ul>
+<p>استخدم تطبيق WeatherApp📱 لتبقى على اطلاع دائم بحالة الطقس في مزرعتك.</p>
+  
+#### 🌦️ [مشروع تتبع الطقس بـ Kotlin](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ar.md)
+
+<p>إدارة استهلاكك للمياه والغاز باستخدام الذكاء الصناعي 🤖</p>
+
+#### 🛢️💧 [مشروع قياس استهلاك الطاقة بـ React](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ar.md)
+
+<p>بصدق: لا يوجد الكثير من التطبيقات التي تتعلق بالطعام.🤪🚀🤷</p>
+<p>فلنعمل معاً على حل مشاكل بيع الطعام! 💯🥗</p>
+
+#### 📦 [الواجهة الخلفية - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ar.md)
+#### 👨‍💻 [الواجهة الأمامية - Vue.js & TypeScript (المستهلك)](https://github.com/SamuelRocha91/consumy/blob/main/README_ar.md)
+#### 👨‍💻 [الواجهة الأمامية - Vue.js & TypeScript (البائع)](https://github.com/SamuelRocha91/seller_application/blob/main/README_ar.md)
+
 
 <h2>🧑 عني:</h2>
 <p>صموئيل روشا، من باهيا🇧🇷، سوتروبوليتانو⚫🔴 ومطور ويب.</p>

@@ -1,48 +1,41 @@
 <h1>:sunny: Aôoooooooooooooooooooooo! </h1>
 
-<h2>🌐</h2>
-<ul>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md" target="_blank">Português</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD" target="_blank">Español</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD" target="_blank">English</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md" target="_blank">Русский</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md" target="_blank">中文</a></li>
-  <li><a href="https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md" target="_blank">العربية</a></li>
-</ul>
+## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
-👋 你好，你好吗？
+👋 你好！最近怎么样？
 
 <div>
-  <p>我能帮你什么吗？🥰</p>
-  <p>怎么样来看看我们的菜单？🧾</p>
-  <ul>
-    <li>
-      🍽️ <a href="https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ch.md" target="_blank">Kotlin Virtual Menu 项目</a>
-    </li>
-  </ul>
-  <p>
-    👩‍🍳 放心，我们会注意饮食限制！😉
-      <a href="https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ch.md" target="_blank">Python Restaurant Orders 项目</a>
-  </p>
+  <p>我能帮你做些什么？ 🥰</p>
+  <p>要不要来看看我们的菜单？ 🧾</p>
+    
+#### 🍽️ [Kotlin虚拟菜单项目](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ch.md)
+
+别担心，我们考虑了饮食限制！😉
+    
+#### 👩‍🍳 [Python餐厅订单项目](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ch.md)
+
 </div>
 
-<p>如果你的挑战是管理你的农场，你来对地方了！🎯</p>
-<ul>
-  <li>🌾 <a href="https://github.com/SamuelRocha91/Agrix/blob/main/README_ch.md" target="_blank">Java Agrix 项目 - 农场管理</a></li>
-</ul>
-<p>毕竟，没有生产者，怎么会有食物呢？🤔👀</p>
+<p>如果你的目标是管理你的农场，你来对地方了！ 🎯</p>
 
-<p>用 WeatherApp📱 跟踪你土地上的天气条件 🌧️ <a href="https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ch.md" target="_blank">Kotlin WeatherApp 项目 - 天气跟踪</a></p>
+#### 🌾 [Java Agrix农场管理项目](https://github.com/SamuelRocha91/Agrix/blob/main/README_ch.md) 
 
-<p>使用人工智能来管理您的水和气体消费🛢️💧 <a href="https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ch.md" target="_blank">React 消费测量项目</a></p>
+<p>毕竟，如果没有那些生产食物的人，食物从何而来？🤔👀</p>
 
-<p>但我告诉你：任何食物应用都不算多。🤪🚀🤷 </p>
-<p>让我们一起克服食品商业化的瓶颈！💯🥗</p>
-<ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back/blob/main/README_ch.md" target="_blank">后台 - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy/blob/main/README_ch.md" target="_blank">前端 - Vue.js && TypeScript (消费者)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application/blob/main/README_ch.md" target="_blank">前端 - Vue.js && TypeScript (卖家)</a></li>
-</ul>
+<p>使用WeatherApp📱，以便随时掌握你的农田天气状况。</p>
+  
+#### 🌦️ [Kotlin天气跟踪项目](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ch.md) 
+
+<p>通过AI管理你的水和气消费 🤖</p>
+
+#### 🛢️💧 [React能源消费测量项目](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ch.md)
+
+<p>我真诚告诉你们：吃的应用程序永远不会太多。🤪🚀🤷</p>
+<p>让我们一起解决食品销售问题！ 💯🥗</p>
+
+#### 📦 [后端 - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ch.md)
+#### 👨‍💻 [前端 - Vue.js & TypeScript (消费者)](https://github.com/SamuelRocha91/consumy/blob/main/README_ch.md)
+#### 👨‍💻 [前端 - Vue.js & TypeScript (卖家)](https://github.com/SamuelRocha91/seller_application/blob/main/README_ch.md)
 
 <h2>🧑 关于我：</h2>
 <p>萨缪尔·罗沙，来自巴伊亚🇧🇷，萨尔瓦多⚫🔴，网络开发人员。</p>
