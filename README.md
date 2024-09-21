@@ -36,11 +36,9 @@ Fique tranquilo(a), estamos atentos a restrições alimentares! 😉
 <p>Vamos juntos superar os gargalos da comercialização de alimentos! 💯🥗</p>
 
 
-<ul>
-  <li>📦 <a href="https://github.com/SamuelRocha91/delivery_back" target="_blank">Backend - Ruby On Rails</a></li>
-  <li>👨‍💻 <a href="https://github.com/SamuelRocha91/consumy" target="_blank">Frontend - Vue.js && Typescript (Consumidor)</a></li>
-  <li>🛍️ <a href="https://github.com/SamuelRocha91/seller_application" target="_blank">Frontend - Vue.js && Typescript (Vendedor)</a></li>
-</ul>
+#### 📦 [Backend - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back)
+#### 👨‍💻 [Frontend - Vue.js && Typescript (Consumidor)](https://github.com/SamuelRocha91/consumy)
+#### 👨‍💻 [Frontend - Vue.js && Typescript (Vendedor)](https://github.com/SamuelRocha91/seller_application)
 
 <h2>🧑 Sobre Mim:</h2>
 <p>Samuel Rocha, baiano🇧🇷, soteropolitano⚫🔴 e desenvolvedor web.</p>
