@@ -28,7 +28,7 @@ Don’t worry, we are mindful of dietary restrictions! 😉
 
 <p>Manage your water and gas consumption with the help of Artificial Intelligence</p>
 
-#### 🛢️💧 [React Consumption Measurement Project](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_en.md")
+#### 🛢️💧 [React Consumption Measurement Project](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_en.md)
 
 <p>But I tell you the truth: all food-related apps are never enough. 🤪🚀🤷 </p>
 <p>Let’s overcome the hurdles of food commercialization together! 💯🥗</p>
