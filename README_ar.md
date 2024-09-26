@@ -14,7 +14,7 @@
 
 **جائع؟ أو تريد إسعاد أحد بطبق لذيذ؟ ماذا عن تعلم بعض الوصفات في تطبيقنا؟ 🍲😊**
 
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp)
+#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ar.md)
 
 </div>
 
