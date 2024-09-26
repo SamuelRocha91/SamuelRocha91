@@ -13,7 +13,7 @@
   
 ¿Tienes hambre o quieres impresionar a alguien especial? ¡Qué tal aprender unas recetas increíbles con nuestra app! 🍽️😋**
 
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp)
+#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_es.md)
 
 </div>
 
