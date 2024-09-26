@@ -12,7 +12,7 @@
     
 #### 🍽️ [Projeto Kotlin Virtual Menu](https://github.com/SamuelRocha91/kotlinVirtualMenu)
   
-Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir receitas incríveis com o nosso App?! 🍽️😋**
+Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir receitas incríveis com o nosso App?! 🍽️😋
 
 #### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp)
 
