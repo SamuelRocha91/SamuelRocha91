@@ -12,9 +12,9 @@
 
 #### 🍽️ [Kotlin Virtual Menu Project](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_en.md)
 
-Don’t worry, we are mindful of dietary restrictions! 😉
+Feeling hungry or want to impress someone special? How about discovering some amazing recipes with our App?! 🍽️😋
 
-#### 👩‍🍳 [Python Restaurant Orders Project](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_en.md)
+#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_en.md)
 
 </div>
 
