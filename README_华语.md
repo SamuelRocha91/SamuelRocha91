@@ -10,9 +10,9 @@
     
 #### 🍽️ [Kotlin虚拟菜单项目](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ch.md)
 
-别担心，我们考虑了饮食限制！😉
-    
-#### 👩‍🍳 [Python餐厅订单项目](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ch.md)
+饿了吗？或者想为某人做一顿美味的饭菜？快来用我们的应用学几道食谱吧！🍜😋
+
+#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ch.md)
 
 </div>
 

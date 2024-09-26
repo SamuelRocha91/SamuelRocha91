@@ -10,9 +10,11 @@
     
 #### 🍽️ [مشروع القائمة الافتراضية بـ Kotlin](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ar.md)
 
-لا تقلق، لقد أخذنا في الحسبان قيودك الغذائية! 😉
     
-#### 👩‍🍳 [مشروع الطلبات للمطاعم بـ Python](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ar.md)
+
+**جائع؟ أو تريد إسعاد أحد بطبق لذيذ؟ ماذا عن تعلم بعض الوصفات في تطبيقنا؟ 🍲😊**
+
+#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ar.md)
 
 </div>
 
