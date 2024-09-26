@@ -12,7 +12,7 @@
 
 **Голодны или хотите порадовать кого-то вкусным блюдом? Почему бы не выучить парочку рецептов в нашем приложении! 🍽️😋**
 
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp)
+#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ru.md)
 
 </div>
 
