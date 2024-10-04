@@ -41,17 +41,20 @@ Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir r
 #### 👨‍💻 [Frontend - Vue.js && Typescript (Consumidor)](https://github.com/SamuelRocha91/consumy)
 #### 👨‍💻 [Frontend - Vue.js && Typescript (Vendedor)](https://github.com/SamuelRocha91/seller_application)
 </details>
-<h2>🧑 Sobre Mim:</h2>
+<details>
+<summary><h2>🧑 Sobre Mim:</h2></summary>
 <p>Samuel Rocha, baiano🇧🇷, soteropolitano⚫🔴 e desenvolvedor web.</p>
 
 [![Full-Stack Web Development Course](https://img.shields.io/badge/-Certified_Web_Developer-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.credential.net/ad5e0984-fa07-41b0-a50b-51cb25fd0010#gs.ffccza)
 [![Certified Java Developer](https://img.shields.io/badge/-Certified_Java_Developer-red?style=flat&logo=java&logoColor=white)](https://www.credential.net/b0eedfe8-4280-4cc4-b832-49f1d9426664#gs.ffcj0a)
 [![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-yellow?style=flat&logo=javascript&logoColor=white)](https://www.freecodecamp.org/certification/Sam_sr91/javascript-algorithms-and-data-structures)
-
-<h2>💻 Meus Interesses:</h2>
+</details>
+<details>
+<summary><h2>💻 Meus Interesses:</h2></summary>
 <p>Aberto a trocar experiências, criar novos projetos, receber propostas laborais e fazer novas amizades </p>
-
-<h2>📚 Áreas de Estudo:</h2>
+</details>
+<details>
+<summary><h2>📚 Áreas de Estudo:</h2></summary>
 
 ### 🖥️ Front-End: 
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue-dot-js&logoColor=%234FC08D" alt="Vue.js" /></a> 
@@ -77,6 +80,7 @@ Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir r
 <a href="https://junit.org/junit5/" target="_blank"><img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit" /></a>
 <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black" alt="Swagger" /></a>
 
+</details>
 
 <hr/>
 <h2>📫 Como Entrar em Contato:</h2>
