@@ -2,8 +2,9 @@
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
+<details>
 
-👋 ¡Hola! ¿Cómo estás?
+<summary>👋 ¡Hola! ¿Cómo estás?</summary>
 
 <div>
   <p>¿En qué puedo ayudarte? 🥰</p>
@@ -38,19 +39,25 @@
 #### 📦 [Backend - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_es.md)
 #### 👨‍💻 [Frontend - Vue.js & TypeScript (Consumidor)](https://github.com/SamuelRocha91/consumy/blob/main/README_es.md)
 #### 👨‍💻 [Frontend - Vue.js & TypeScript (Vendedor)](https://github.com/SamuelRocha91/seller_application/blob/main/README_es.md)
+</details>
+<details>
 
-<h2>🧑 Sobre Mí:</h2>
+<summary><h2>🧑 Sobre Mí:</h2></summary>
 <p>Samuel Rocha, de Bahia🇧🇷, nacido en Salvador⚫🔴, y desarrollador web.</p>
 
 [![Full-Stack Web Development Course](https://img.shields.io/badge/-Certified_Web_Developer-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.credential.net/ad5e0984-fa07-41b0-a50b-51cb25fd0010#gs.ffccza)
 [![Certified Java Developer](https://img.shields.io/badge/-Certified_Java_Developer-red?style=flat&logo=java&logoColor=white)](https://www.credential.net/b0eedfe8-4280-4cc4-b832-49f1d9426664#gs.ffcj0a)
 [![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-yellow?style=flat&logo=javascript&logoColor=white)](https://www.freecodecamp.org/certification/Sam_sr91/javascript-algorithms-and-data-structures)
 
+</details>
+<details>
 
-<h2>💻 Mis Intereses:</h2>
+<summary><h2>💻 Mis Intereses:</h2></summary>
 <p>Abierto a intercambiar experiencias, crear nuevos proyectos, recibir ofertas de trabajo y hacer nuevas amistades</p>
+</details>
+<details>
 
-<h2>📚 Áreas de Estudio:</h2>
+<summary><h2>📚 Áreas de Estudio:</h2></summary>
 
 ### 🖥️ Front-End: 
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vue-dot-js&logoColor=%234FC08D" alt="Vue.js" /></a> 
@@ -75,9 +82,12 @@
 <a href="https://jestjs.io/" target="_blank"><img src="https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white" alt="Jest" /></a>
 <a href="https://junit.org/junit5/" target="_blank"><img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=flat&logo=junit5&logoColor=white" alt="JUnit" /></a>
 <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black" alt="Swagger" /></a>
+</details>
+
+<details>
 
 <hr/>
-<h2>📫 Cómo Contactarme:</h2>
+<summary><h2>📫 Cómo Contactarme:</h2></summary>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rocha-88278224a/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/71992594946)
@@ -85,10 +95,13 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/samuelrocha91#1543)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuel_sr)
 
+</details>
 
-<h2>📊 Estadísticas de Mi GitHub:</h2>
+<details>
+<summary><h2>📊 Estadísticas de Mi GitHub:</h2></summary>
 
 [![SamuelRocha91 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRocha91)](https://github.com/SamuelRocha91/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRocha91&langs_count=8&layout=compact)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=SamuelRocha91&repo=SamuelRocha91-visitors-badge&countColor=%237B1E7A)
+</details>
