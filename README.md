@@ -4,7 +4,8 @@
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
 
-👋 Olá, tudo bem?
+<details>
+<summary>👋 Olá, tudo bem?</summary>
 
 <div>
   <p>Como posso ajudar? 🥰</p>
@@ -39,7 +40,7 @@ Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir r
 #### 📦 [Backend - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back)
 #### 👨‍💻 [Frontend - Vue.js && Typescript (Consumidor)](https://github.com/SamuelRocha91/consumy)
 #### 👨‍💻 [Frontend - Vue.js && Typescript (Vendedor)](https://github.com/SamuelRocha91/seller_application)
-
+</details>
 <h2>🧑 Sobre Mim:</h2>
 <p>Samuel Rocha, baiano🇧🇷, soteropolitano⚫🔴 e desenvolvedor web.</p>
 
