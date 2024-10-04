@@ -7,6 +7,7 @@
 <details>
 <summary>👋 Olá, tudo bem?</summary>
 
+
 <div>
   <p>Como posso ajudar? 🥰</p>
   <p>Que tal dar uma olhadinha no nosso menu? 🧾</p>
@@ -83,7 +84,9 @@ Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir r
 </details>
 
 <hr/>
-<h2>📫 Como Entrar em Contato:</h2>
+<details>
+<summary><h2>📫 Como Entrar em Contato:</h2></summary>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rocha-88278224a/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/71992594946)
@@ -91,16 +94,21 @@ Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir r
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/samuelrocha91#1543)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuel_sr)
 
-<h2>📚 Grupo de Leitura:</h2>
+</details>
+
+<details>
+<summary><h2>📚 Grupo de Leitura:</h2></summary>
 <p>
   Estou tentando formar um grupo de leitura na área de tecnologia para debates quinzenais sobre capítulos de livros ininteligíveis. 
   Se tiver interesse, me manda um "☀️Aôooo"! 😅👍
 </p>
+</details>
 
-<h2>📊 Estatísticas do Meu GitHub:</h2>
+<details>
+<summary><h2>📊 Estatísticas do Meu GitHub:</h2></summary>
 
 [![SamuelRocha91 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRocha91)](https://github.com/SamuelRocha91/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelRocha91&langs_count=8&layout=compact)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=SamuelRocha91&repo=SamuelRocha91-visitors-badge&countColor=%237B1E7A)
-
+</details>
