@@ -1,45 +1,85 @@
 <h1>:sunny: Aôoooooooooooooooooooooo! </h1>
 
-
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
+
+
 <details>
-<summary>👋 Hello, how are you?</summary>
+<summary> <h2>👋 Hello, how are you? </h2> </summary>
+<br>
 
 <div>
-  <p>How can I help you? 🥰</p>
-  <p>How about taking a look at our menu? 🧾</p>
+  <p>How can I help? 🥰</p>
+  <p>My GitHub is constantly changing 🏃</p>
+  <p>Below is the current repository standardization (or in implementation🫠️)</p>
 
-#### 🍽️ [Kotlin Virtual Menu Project](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_en.md)
+<summary><h2> 🎭️ React Projects </h2> </summary>
 
-Feeling hungry or want to impress someone special? How about discovering some amazing recipes with our App?! 🍽️😋
+- 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game/blob/main/README_en.md)
+- 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex/blob/main/README_en.md)
+- 🏪 [FrontEnd Online Store](https://github.com/SamuelRocha91/project-frontend-online-store/blob/main/README_en.md)
+- 👛 [Expense organizer](https://github.com/SamuelRocha91/project-trybewallet/blob/main/README_en.md)
 
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_en.md)
+<summary><h2> 🪢️ Node Projects </h2> </summary>
 
-</div>
+- 🗡️ [Trybe Smith](https://github.com/SamuelRocha91/TrybeSmith/blob/main/README_en.md)
+- 🪧 [Blogs Api](https://github.com/SamuelRocha91/BlogsApi/blob/main/README_en.md)
+- 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons/blob/main/README_en.md)
+- ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube/blob/main/README_en.md)
 
-<p>If your challenge is managing your farm, you’ve come to the right place! 🎯</p>
+<summary><h2> 👶️ Beginner Projects </h2> </summary>
 
-#### 🌾 [Java Agrix Project - Farm Management](https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md) 
+- 🖥️ [Binary Converter](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_en.md)
+- 📝 [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md)
+- 🧮 [Calculator](https://github.com/SamuelRocha91/calculator/blob/main/README_en.md)
+- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_en.md)
+- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_en.md)
 
-<p>Because, after all, how could there be food without those who produce it? 🤔👀</p>
+<summary><h2> 🔋️ Full-Stack Projects </h2> </summary>
 
-<p>Count on WeatherApp📱 to monitor the weather conditions in your country</p>
+### Delivery
+  - 💎 [Delivery Backend](https://github.com/SamuelRocha91/delivery_back/blob/main/README_en.md) - Backend application in Rails for the delivery platform
+  - 🛒 [Consumy Application](https://github.com/SamuelRocha91/consumy/blob/main/README_en.md) - Consumer application
+  - 👨‍💼 [Seller Application](https://github.com/SamuelRocha91/seller_application/blob/main/README_en.md) - Seller application
+  - 💲 [Paymenty API](https://github.com/SamuelRocha91/paymenty/blob/main/README_en.md) - Payment API
 
-#### 🌦️ [Kotlin WeatherApp Project - Climate Tracking](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_en.md) 
+### Measurement API
+  - 📏 [React Precision Application](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_en.md) - Interface for registering gas and water measurements
+  - 🤖 [Node API](https://github.com/SamuelRocha91/apiMeasureWaterAndGas/blob/main/README_en.md) - Measurement and consumption registration API
 
-<p>Manage your water and gas consumption with the help of Artificial Intelligence</p>
+<hr/>
+<summary><h2> ☕️ Java Projects </h2> </summary>
 
-#### 🛢️💧 [React Consumption Measurement Project](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_en.md)
+- 🌾 [Agrix Java Project - Farm Management](https://github.com/SamuelRocha91/Agrix/blob/main/README_en.md) 
+- 🏛️ [Museum Locator](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_en.md)
+- 📃 [Progression Rules](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_en.md)
+- 🗳️ [Voting System](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_en.md)
 
-<p>But I tell you the truth: all food-related apps are never enough. 🤪🚀🤷 </p>
-<p>Let’s overcome the hurdles of food commercialization together! 💯🥗</p>
+<summary><h2> 📱️ Kotlin Projects </h2> </summary>
 
-#### 📦 [Backend - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_en.md)
-#### 👨‍💻 [Frontend - Vue.js && Typescript (Consumer)](https://github.com/SamuelRocha91/consumy/blob/main/README_en.md)
-#### 👨‍💻 [Frontend - Vue.js && Typescript  (Seller)](https://github.com/SamuelRocha91/seller_application/blob/main/README_en.md)
+- 📜 [Virtual Menu](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_en.md)
+-  ☀️ [Weather App](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_en.md)
+- 💱 [Kotlin Exchange Rate](https://github.com/SamuelRocha91/kotlinExchangeRate/blob/main/README_en.md)
+- 👤 [Social Login](https://github.com/SamuelRocha91/kotlinLoginSocial/blob/main/README_en.md)
+
+<summary><h2> 🔴️ Ruby Projects </h2> </summary>
+
+- 📽️ [Rails Movie](https://github.com/SamuelRocha91/rails_movies_catalog/blob/main/README_en.md)
+- 👩‍⚖️[Odin Exercises](https://github.com/SamuelRocha91/ruby_exercises/blob/main/README_en.md)
+
+<summary><h2> 🎲️ Databases </h2> </summary>
+
+- 🚗️ [Rental Car](https://github.com/SamuelRocha91/dbRentalCar/blob/main/README_en.md)
+
+<summary><h2> 🐍️ Python Projects </h2> </summary>
+
+- 7⃣️ [Algorithms](https://github.com/SamuelRocha91/Algorithms/blob/main/README_en.md)
+- 🍲️ [Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_en.md)
+-  ✍️ [Scripts](https://github.com/SamuelRocha91/scripts/blob/main/README_en.md)
+- 🕵️‍♀️ [Trybe is not Google](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_en.md)
+
 </details>
-
 <details>
 <summary><h2>🧑 About Me:</h2></summary>
 <p>Samuel Rocha, from Bahia🇧🇷, born in Salvador⚫🔴, and web developer.</p>
@@ -95,6 +135,26 @@ Feeling hungry or want to impress someone special? How about discovering some am
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/samuelrocha91#1543)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuel_sr)
 </details>
+
+<details>
+<summary><h2>🤓️ Philosophy:</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <img src="./cuidadoCOmOTrem.jpeg" style="max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;"/>
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      "Let’s move forward, doing a handstand, without looking back; after all: one day the train will arrive." - Unknown author from Bahia 😅️
+    </p>
+  </div>
+</details>
+
+<details>
+<summary><h2> Author's Note</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      I ask for your forgiveness for the abundance of colors and emojis you have been subjected to. It was my humble and annoying way of trying to grab your attention to my dedication and effort. I hope at least some child you know can read the text and approve of this mess. Thank you!
+    </p>
+  </div>
+</details>
+
 
 <details>
 <summary><h2>📊 My GitHub Stats:</h2></summary>
