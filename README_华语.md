@@ -80,6 +80,7 @@
 - 🕵️‍♀️ [Trybe 不等于 Google](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ch.md)
 
 </details>
+<details>
 
 <summary><h2>🧑 关于我：</h2></summary>
 <p>萨缪尔·罗沙，来自巴伊亚🇧🇷，萨尔瓦多⚫🔴，网络开发人员。</p>
@@ -123,8 +124,9 @@
 <a href="https://swagger.io/" target="_blank"><img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black" alt="Swagger" /></a>
 </details>
 
-<details>
 <hr/>
+
+<details>
 <summary><h2>📫 如何联系我：</h2></summary>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rocha-88278224a/)
