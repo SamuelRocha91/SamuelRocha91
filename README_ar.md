@@ -1,44 +1,82 @@
-<h1>:sunny: أهلاً وسهلاً! </h1>
+<h1>:sunny: Aôoooooooooooooooooooooo! </h1>
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
+
 <details>
-<summary>👋 مرحباً! كيف حالك اليوم؟
-</summary>
+<summary> <h2>👋 مرحبا ، كيف حالك؟ </h2> </summary>
+<br>
+
 <div>
-  <p>كيف يمكنني مساعدتك؟ 🥰</p>
-  <p>هل تريد الاطلاع على قائمتنا؟ 🧾</p>
-    
-#### 🍽️ [مشروع القائمة الافتراضية بـ Kotlin](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ar.md)
+  <p>ماذا يمكنني مساعدتك؟ 🥰</p>
+  <p>GitHub الخاص بي في حالة تغيير مستمر 🏃</p>
+  <p>فيما يلي المعايير الحالية للمستودع (أو قيد التنفيذ🫠️)</p>
 
-    
+<summary><h2> 🎭️ مشاريع React </h2> </summary>
 
-**جائع؟ أو تريد إسعاد أحد بطبق لذيذ؟ ماذا عن تعلم بعض الوصفات في تطبيقنا؟ 🍲😊**
+- 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game/blob/main/README_ar.md)
+- 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex/blob/main/README_ar.md)
+- 🏪 [متجر على الإنترنت للواجهة الأمامية](https://github.com/SamuelRocha91/project-frontend-online-store/blob/main/README_ar.md)
+- 👛 [منظم النفقات](https://github.com/SamuelRocha91/project-trybewallet/blob/main/README_ar.md)
 
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ar.md)
+<summary><h2> 🪢️ مشاريع Node </h2> </summary>
 
-</div>
+- 🗡️ [Trybe Smith](https://github.com/SamuelRocha91/TrybeSmith/blob/main/README_ar.md)
+- 🪧 [Blogs Api](https://github.com/SamuelRocha91/BlogsApi/blob/main/README_ar.md)
+- 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons/blob/main/README_ar.md)
+- ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube/blob/main/README_ar.md)
 
-<p>إذا كان هدفك هو إدارة مزرعتك، فأنت في المكان الصحيح! 🎯</p>
+<summary><h2> 👶️ مشاريع المبتدئين </h2> </summary>
 
-#### 🌾 [مشروع إدارة المزرعة بـ Java Agrix](https://github.com/SamuelRocha91/Agrix/blob/main/README_ar.md)
+- 🖥️ [Binary Converter](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ar.md)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ar.md)
+- 📝 [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_ar.md)
+- 🧮 [Calculator](https://github.com/SamuelRocha91/calculator/blob/main/README_ar.md)
+- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ar.md)
+- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
 
-<p>في النهاية، من أين يأتي الطعام إذا لم يكن هناك مَن ينتجه؟ 🤔👀</p>
+<summary><h2> 🔋️ مشاريع Full-Stack </h2> </summary>
 
-<p>استخدم تطبيق WeatherApp📱 لتبقى على اطلاع دائم بحالة الطقس في مزرعتك.</p>
-  
-#### 🌦️ [مشروع تتبع الطقس بـ Kotlin](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ar.md)
+### Delivery
+  - 💎 [Delivery Backend](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ar.md) - تطبيق الباكند في Rails لمنصة التوصيل
+  - 🛒 [Consumy Application](https://github.com/SamuelRocha91/consumy/blob/main/README_ar.md) - تطبيق المستهلك
+  - 👨‍💼 [Seller Application](https://github.com/SamuelRocha91/seller_application/blob/main/README_ar.md) - تطبيق البائع
+  - 💲 [Paymenty API](https://github.com/SamuelRocha91/paymenty/blob/main/README_ar.md) - واجهة برمجة التطبيقات للدفع
 
-<p>إدارة استهلاكك للمياه والغاز باستخدام الذكاء الصناعي 🤖</p>
+### قياس API
+  - 📏 [React Precision Application](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ar.md) - واجهة لتسجيل قياسات الغاز والماء
+  - 🤖 [Node API](https://github.com/SamuelRocha91/apiMeasureWaterAndGas/blob/main/README_ar.md) - واجهة برمجة التطبيقات لتسجيل القياسات والاستهلاك
 
-#### 🛢️💧 [مشروع قياس استهلاك الطاقة بـ React](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ar.md)
+<hr/>
+<summary><h2> ☕️ مشاريع Java </h2> </summary>
 
-<p>بصدق: لا يوجد الكثير من التطبيقات التي تتعلق بالطعام.🤪🚀🤷</p>
-<p>فلنعمل معاً على حل مشاكل بيع الطعام! 💯🥗</p>
+- 🌾 [مشروع Agrix Java - إدارة المزارع](https://github.com/SamuelRocha91/Agrix/blob/main/README_ar.md) 
+- 🏛️ [محدد المتحف](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_ar.md)
+- 📃 [قواعد التقدم](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ar.md)
+- 🗳️ [نظام التصويت](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_ar.md)
 
-#### 📦 [الواجهة الخلفية - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ar.md)
-#### 👨‍💻 [الواجهة الأمامية - Vue.js & TypeScript (المستهلك)](https://github.com/SamuelRocha91/consumy/blob/main/README_ar.md)
-#### 👨‍💻 [الواجهة الأمامية - Vue.js & TypeScript (البائع)](https://github.com/SamuelRocha91/seller_application/blob/main/README_ar.md)
+<summary><h2> 📱️ مشاريع Kotlin </h2> </summary>
+
+- 📜 [القائمة الافتراضية](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ar.md)
+-  ☀️ [تطبيق الطقس](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ar.md)
+- 💱 [سعر صرف Kotlin](https://github.com/SamuelRocha91/kotlinExchangeRate/blob/main/README_ar.md)
+- 👤 [تسجيل الدخول الاجتماعي](https://github.com/SamuelRocha91/kotlinLoginSocial/blob/main/README_ar.md)
+
+<summary><h2> 🔴️ مشاريع Ruby </h2> </summary>
+
+- 📽️ [Rails Movie](https://github.com/SamuelRocha91/rails_movies_catalog/blob/main/README_ar.md)
+- 👩‍⚖️[تمارين Odin](https://github.com/SamuelRocha91/ruby_exercises/blob/main/README_ar.md)
+
+<summary><h2> 🎲️ قواعد البيانات </h2> </summary>
+
+- 🚗️ [إيجار السيارات](https://github.com/SamuelRocha91/dbRentalCar/blob/main/README_ar.md)
+
+<summary><h2> 🐍️ مشاريع Python </h2> </summary>
+
+- 7⃣️ [الخوارزميات](https://github.com/SamuelRocha91/Algorithms/blob/main/README_ar.md)
+- 🍲️ [طلبات المطعم](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ar.md)
+-  ✍️ [البرامج النصية](https://github.com/SamuelRocha91/scripts/blob/main/README_ar.md)
+- 🕵️‍♀️ [Trybe ليست Google](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ar.md)
 
 </details>
 
@@ -78,6 +116,26 @@
 </ul>
 </details>
 <details>
+
+<details>
+<summary><h2>🤓️ الفلسفة:</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <img src="./cuidadoCOmOTrem.jpeg" style="max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;"/>
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      "دعنا نتقدم، نقوم بعمل وقفة رأسية، دون النظر إلى الوراء؛ بعد كل شيء: سيأتي القطار في يوم من الأيام." - مؤلف غير معروف من باهيا 😅️
+    </p>
+  </div>
+</details>
+
+<details>
+<summary><h2> ملاحظة المؤلف</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      أطلب عذركم على وفرة الألوان والرموز التعبيرية التي تعرضتم لها. كانت طريقتي المتواضعة والمزعجة في محاولة جذب انتباهكم لجهودي وتفاني. آمل أن يتمكن على الأقل بعض الأطفال الذين تعرفهم من قراءة النص والموافقة على هذه الفوضى. شكرًا لكم!
+    </p>
+  </div>
+</details>
+
 
 <summary><h2>📊 إحصائيات GitHub الخاصة بي:</h2></summary>
 

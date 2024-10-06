@@ -2,45 +2,84 @@
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
-<details>
 
-<summary>👋 Привет! Как дела?</summary>
+
+<details>
+<summary> <h2>👋 Привет, как дела? </h2> </summary>
+<br>
 
 <div>
-  <p>Чем могу помочь? 🥰</p>
-  <p>Как насчет того, чтобы заглянуть в наше меню? 🧾</p>
-    
-#### 🍽️ [Проект Kotlin Virtual Menu](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ru.md)
+  <p>Как я могу помочь? 🥰</p>
+  <p>Мой GitHub постоянно меняется 🏃</p>
+  <p>Ниже представлена текущая стандартизация репозитория (или в процессе реализации🫠️)</p>
 
-**Голодны или хотите порадовать кого-то вкусным блюдом? Почему бы не выучить парочку рецептов в нашем приложении! 🍽️😋**
+<summary><h2> 🎭️ Проекты React </h2> </summary>
 
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ru.md)
+- 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game/blob/main/README_ru.md)
+- 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex/blob/main/README_ru.md)
+- 🏪 [Интернет-магазин FrontEnd](https://github.com/SamuelRocha91/project-frontend-online-store/blob/main/README_ru.md)
+- 👛 [Организатор расходов](https://github.com/SamuelRocha91/project-trybewallet/blob/main/README_ru.md)
 
-</div>
+<summary><h2> 🪢️ Проекты Node </h2> </summary>
 
-<p>Если ваша задача - управлять вашей фермой, вы попали по адресу! 🎯</p>
+- 🗡️ [Trybe Smith](https://github.com/SamuelRocha91/TrybeSmith/blob/main/README_ru.md)
+- 🪧 [Blogs Api](https://github.com/SamuelRocha91/BlogsApi/blob/main/README_ru.md)
+- 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons/blob/main/README_ru.md)
+- ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube/blob/main/README_ru.md)
 
-#### 🌾 [Проект Java Agrix - Управление Фермой](https://github.com/SamuelRocha91/Agrix/blob/main/README_ru.md) 
+<summary><h2> 👶️ Проекты для начинающих </h2> </summary>
 
-<p>В конце концов, откуда бы взялась еда без тех, кто ее производит? 🤔👀</p>
+- 🖥️ [Двоичный конвертер](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md)
+- 🎨 [Искусство пикселей](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
+- 📝 [Список дел](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md)
+- 🧮 [Калькулятор](https://github.com/SamuelRocha91/calculator/blob/main/README_ru.md)
+- 🦖 [Генератор мемов](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ru.md)
+- 🪐 [Планеты Звездных Войн](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ru.md)
 
-<p>Используйте WeatherApp📱, чтобы следить за погодными условиями на ваших землях</p>
-  
-#### 🌦️ [Проект Kotlin Weather Tracking](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ru.md) 
+<summary><h2> 🔋️ Полноценные проекты </h2> </summary>
 
-<p>Управляйте расходом воды и газа с помощью ИИ 🤖</p>
+### Доставка
+  - 💎 [Backend доставки](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ru.md) - Приложение на Rails для платформы доставки
+  - 🛒 [Приложение Consumy](https://github.com/SamuelRocha91/consumy/blob/main/README_ru.md) - Приложение для потребителей
+  - 👨‍💼 [Приложение для продавцов](https://github.com/SamuelRocha91/seller_application/blob/main/README_ru.md) - Приложение для продавцов
+  - 💲 [API Paymenty](https://github.com/SamuelRocha91/paymenty/blob/main/README_ru.md) - Платежный API
 
-#### 🛢️💧 [Проект React по измерению потребления](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ru.md)
+### API измерений
+  - 📏 [React Precision Application](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ru.md) - Интерфейс для регистрации газовых и водяных измерений
+  - 🤖 [Node API](https://github.com/SamuelRocha91/apiMeasureWaterAndGas/blob/main/README_ru.md) - API для регистрации измерений и потребления
 
-<p>Но поистине говорю вам: приложений для еды никогда не бывает много. 🤪🚀🤷 </p>
-<p>Давайте вместе решим проблемы сбыта продовольствия! 💯🥗</p>
+<hr/>
+<summary><h2> ☕️ Проекты Java </h2> </summary>
 
+- 🌾 [Проект Agrix Java - Управление фермой](https://github.com/SamuelRocha91/Agrix/blob/main/README_ru.md) 
+- 🏛️ [Локатор музеев](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_ru.md)
+- 📃 [Правила прогрессии](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ru.md)
+- 🗳️ [Система голосования](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_ru.md)
 
-#### 📦 [Бэкенд - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ru.md)
-#### 👨‍💻 [Фронтенд - Vue.js & TypeScript (Потребитель)](https://github.com/SamuelRocha91/consumy/blob/main/README_ru.md)
-#### 👨‍💻 [Фронтенд - Vue.js & TypeScript (Продавец)](https://github.com/SamuelRocha91/seller_application/blob/main/README_ru.md)
+<summary><h2> 📱️ Проекты Kotlin </h2> </summary>
+
+- 📜 [Виртуальное меню](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ru.md)
+- ☀️ [Приложение погоды](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ru.md)
+- 💱 [Курс обмена Kotlin](https://github.com/SamuelRocha91/kotlinExchangeRate/blob/main/README_ru.md)
+- 👤 [Социальный вход](https://github.com/SamuelRocha91/kotlinLoginSocial/blob/main/README_ru.md)
+
+<summary><h2> 🔴️ Проекты Ruby </h2> </summary>
+
+- 📽️ [Rails Movie](https://github.com/SamuelRocha91/rails_movies_catalog/blob/main/README_ru.md)
+- 👩‍⚖️[Упражнения Odin](https://github.com/SamuelRocha91/ruby_exercises/blob/main/README_ru.md)
+
+<summary><h2> 🎲️ Базы данных </h2> </summary>
+
+- 🚗️ [Аренда автомобиля](https://github.com/SamuelRocha91/dbRentalCar/blob/main/README_ru.md)
+
+<summary><h2> 🐍️ Проекты Python </h2> </summary>
+
+- 7⃣️ [Алгоритмы](https://github.com/SamuelRocha91/Algorithms/blob/main/README_ru.md)
+- 🍲️ [Заказы в ресторане](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ru.md)
+- ✍️ [Скрипты](https://github.com/SamuelRocha91/scripts/blob/main/README_ru.md)
+- 🕵️‍♀️ [Trybe не Google](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ru.md)
+
 </details>
-<details>
 
 <summary><h2>🧑 Обо Мне:</h2></summary>
 <p>Самуэл Роша, из Баии🇧🇷, родом из Сальвадора⚫🔴, веб-разработчик.</p>
@@ -98,6 +137,25 @@
 </details>
 
 <details>
+
+<details>
+<summary><h2>🤓️ Философия:</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <img src="./cuidadoCOmOTrem.jpeg" style="max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;"/>
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      "Давайте двигаться вперед, делая стойку на руках, не оглядываясь назад; в конце концов: однажды поезд прибудет." - Неизвестный автор из Байи 😅️
+    </p>
+  </div>
+</details>
+
+<details>
+<summary><h2> Заметка автора</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      Прошу прощения за изобилие цветов и эмодзи, которому вы подвергались. Это был мой скромный и раздражающий способ привлечь ваше внимание к моей преданности и усилиям. Надеюсь, хотя бы какой-нибудь ребенок, которого вы знаете, сможет прочитать этот текст и одобрить этот беспорядок. Спасибо!
+    </p>
+  </div>
+</details>
 
 <summary><h2>📊 Статистика Моего GitHub:</h2></summary>
 

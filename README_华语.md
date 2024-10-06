@@ -2,46 +2,84 @@
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
 
-<details>
 
-<summary>👋 你好！最近怎么样？</summary>
+
+<details>
+<summary> <h2>👋 你好，你好吗？ </h2> </summary>
+<br>
 
 <div>
-  <p>我能帮你做些什么？ 🥰</p>
-  <p>要不要来看看我们的菜单？ 🧾</p>
-    
-#### 🍽️ [Kotlin虚拟菜单项目](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ch.md)
+  <p>我可以帮你什么？ 🥰</p>
+  <p>我的GitHub不断变化 🏃</p>
+  <p>以下是当前的代码库标准化（或正在实施中🫠️）</p>
 
-饿了吗？或者想为某人做一顿美味的饭菜？快来用我们的应用学几道食谱吧！🍜😋
+<summary><h2> 🎭️ React 项目 </h2> </summary>
 
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ch.md)
+- 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game/blob/main/README_ch.md)
+- 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex/blob/main/README_ch.md)
+- 🏪 [前端在线商店](https://github.com/SamuelRocha91/project-frontend-online-store/blob/main/README_ch.md)
+- 👛 [费用组织者](https://github.com/SamuelRocha91/project-trybewallet/blob/main/README_ch.md)
 
-</div>
+<summary><h2> 🪢️ Node 项目 </h2> </summary>
 
-<p>如果你的目标是管理你的农场，你来对地方了！ 🎯</p>
+- 🗡️ [Trybe Smith](https://github.com/SamuelRocha91/TrybeSmith/blob/main/README_ch.md)
+- 🪧 [Blogs Api](https://github.com/SamuelRocha91/BlogsApi/blob/main/README_ch.md)
+- 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons/blob/main/README_ch.md)
+- ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube/blob/main/README_ch.md)
 
-#### 🌾 [Java Agrix农场管理项目](https://github.com/SamuelRocha91/Agrix/blob/main/README_ch.md) 
+<summary><h2> 👶️ 初学者项目 </h2> </summary>
 
-<p>毕竟，如果没有那些生产食物的人，食物从何而来？🤔👀</p>
+- 🖥️ [二进制转换器](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md)
+- 🎨 [像素艺术](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ch.md)
+- 📝 [待办事项列表](https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md)
+- 🧮 [计算器](https://github.com/SamuelRocha91/calculator/blob/main/README_ch.md)
+- 🦖 [表情包生成器](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ch.md)
+- 🪐 [星球大战星球](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ch.md)
 
-<p>使用WeatherApp📱，以便随时掌握你的农田天气状况。</p>
-  
-#### 🌦️ [Kotlin天气跟踪项目](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ch.md) 
+<summary><h2> 🔋️ 全栈项目 </h2> </summary>
 
-<p>通过AI管理你的水和气消费 🤖</p>
+### 交付
+  - 💎 [交付后端](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ch.md) - 交付平台的后端应用程序
+  - 🛒 [Consumy 应用程序](https://github.com/SamuelRocha91/consumy/blob/main/README_ch.md) - 消费者应用程序
+  - 👨‍💼 [卖方应用程序](https://github.com/SamuelRocha91/seller_application/blob/main/README_ch.md) - 卖方应用程序
+  - 💲 [Paymenty API](https://github.com/SamuelRocha91/paymenty/blob/main/README_ch.md) - 支付 API
 
-#### 🛢️💧 [React能源消费测量项目](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ch.md)
+### 测量 API
+  - 📏 [React 精度应用](https://github.com/SamuelRocha91/precisionReactApplication/blob/main/README_ch.md) - 注册气体和水测量的界面
+  - 🤖 [Node API](https://github.com/SamuelRocha91/apiMeasureWaterAndGas/blob/main/README_ch.md) - 测量和消费注册 API
 
-<p>我真诚告诉你们：吃的应用程序永远不会太多。🤪🚀🤷</p>
-<p>让我们一起解决食品销售问题！ 💯🥗</p>
+<hr/>
+<summary><h2> ☕️ Java 项目 </h2> </summary>
 
-#### 📦 [后端 - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back/blob/main/README_ch.md)
-#### 👨‍💻 [前端 - Vue.js & TypeScript (消费者)](https://github.com/SamuelRocha91/consumy/blob/main/README_ch.md)
-#### 👨‍💻 [前端 - Vue.js & TypeScript (卖家)](https://github.com/SamuelRocha91/seller_application/blob/main/README_ch.md)
+- 🌾 [Agrix Java 项目 - 农场管理](https://github.com/SamuelRocha91/Agrix/blob/main/README_ch.md) 
+- 🏛️ [博物馆定位器](https://github.com/SamuelRocha91/localizadorDeMuseus/blob/main/README_ch.md)
+- 📃 [进步规则](https://github.com/SamuelRocha91/project_rule_of_progression/blob/main/README_ch.md)
+- 🗳️ [投票系统](https://github.com/SamuelRocha91/sistemaDeVotacao/blob/main/README_ch.md)
+
+<summary><h2> 📱️ Kotlin 项目 </h2> </summary>
+
+- 📜 [虚拟菜单](https://github.com/SamuelRocha91/kotlinVirtualMenu/blob/main/README_ch.md)
+- ☀️ [天气应用](https://github.com/SamuelRocha91/kotlinWeatherApp/blob/main/README_ch.md)
+- 💱 [Kotlin 汇率](https://github.com/SamuelRocha91/kotlinExchangeRate/blob/main/README_ch.md)
+- 👤 [社交登录](https://github.com/SamuelRocha91/kotlinLoginSocial/blob/main/README_ch.md)
+
+<summary><h2> 🔴️ Ruby 项目 </h2> </summary>
+
+- 📽️ [Rails 电影](https://github.com/SamuelRocha91/rails_movies_catalog/blob/main/README_ch.md)
+- 👩‍⚖️ [Odin 练习](https://github.com/SamuelRocha91/ruby_exercises/blob/main/README_ch.md)
+
+<summary><h2> 🎲️ 数据库 </h2> </summary>
+
+- 🚗️ [租车](https://github.com/SamuelRocha91/dbRentalCar/blob/main/README_ch.md)
+
+<summary><h2> 🐍️ Python 项目 </h2> </summary>
+
+- 7⃣️ [算法](https://github.com/SamuelRocha91/Algorithms/blob/main/README_ch.md)
+- 🍲️ [餐厅订单](https://github.com/SamuelRocha91/restaurantOrders/blob/main/README_ch.md)
+- ✍️ [脚本](https://github.com/SamuelRocha91/scripts/blob/main/README_ch.md)
+- 🕵️‍♀️ [Trybe 不等于 Google](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ch.md)
 
 </details>
-
-<details>
 
 <summary><h2>🧑 关于我：</h2></summary>
 <p>萨缪尔·罗沙，来自巴伊亚🇧🇷，萨尔瓦多⚫🔴，网络开发人员。</p>
@@ -95,6 +133,26 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/samuelrocha91#1543)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuel_sr)
 </details>
+
+<details>
+<summary><h2>🤓️ 哲学：</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <img src="./cuidadoCOmOTrem.jpeg" style="max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;"/>
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      "让我们前进，做倒立，不回头；毕竟：总有一天火车会到达。" - 巴伊亚的未知作者 😅️
+    </p>
+  </div>
+</details>
+
+<details>
+<summary><h2> 作者说明</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      我为您所遭受的颜色和表情符号的丰富感到抱歉。这是我试图吸引您注意力的谦卑而恼人的方式，以展现我的奉献和努力。我希望您认识的某个孩子能够读懂这段文字，并对这份混乱表示赞同。谢谢！
+    </p>
+  </div>
+</details>
+
 
 <details>
 <summary><h2>📊 我的 GitHub 统计：</h2></summary>
