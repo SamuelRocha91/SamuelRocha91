@@ -14,25 +14,19 @@
   <p>Segue abaixo a atual padronização de repositórios (ou em implementação🫠️)</p>
 
 
-<details>
 <sumary><h2> 🎭️ Projetos React </h2> </summary>
-
 - 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game)
 - 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex)
 - 🏪 [FrontEnd Online Store](https://github.com/SamuelRocha91/project-frontend-online-store)
 - 👛 [Expense organizer](https://github.com/SamuelRocha91/project-trybewallet)
-</details>
 
-<details>
 <sumary><h2> 🪢️ Projetos Node </h2> </summary>
 
 - 🗡️ [Trybe Smith](https://github.com/SamuelRocha91/TrybeSmith)
 - 🪧 [Blogs Api](https://github.com/SamuelRocha91/BlogsApi)
 - 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons)
 - ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube)
-</details>
 
-<details>
 <sumary><h2> 👶️ Projetos de iniciantes </h2> </summary>
 
 - 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
@@ -42,8 +36,6 @@
 - 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator)
 - 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets)
 
-</details>
-<details>
 
 <sumary><h2> 🔋️ Projetos Full-Stack </h2> </summary>
 
@@ -56,9 +48,7 @@
 ### Measurement APi
   - 📏 [React Precision Application](https://github.com/SamuelRocha91/precisionReactApplication) - Interface de cadastro de medições de gás e de água
   - 🤖 [Node API](https://github.com/SamuelRocha91/apiMeasureWaterAndGas) - Api de medição e cadastro de consumo
-</details>
 
-<details>
 
 <sumary><h2> ☕️ Projetos Java </h2> </summary>
 
@@ -66,9 +56,7 @@
 - 🏛️ [Localizador de Museus](https://github.com/SamuelRocha91/localizadorDeMuseus)
 - 📃 [Regras de Progressão](https://github.com/SamuelRocha91/project_rule_of_progression)
 - 🗳️ [Sistema de Votação](https://github.com/SamuelRocha91/sistemaDeVotacao)
-</details>
 
-<details>
 <sumary><h2> 📱️ Projetos Kotlin </h2> </summary>
 
 - 📜 [Virtual Menu](https://github.com/SamuelRocha91/kotlinVirtualMenu)
@@ -76,34 +64,25 @@
 - 💱 [kotlin Exchange Rate](https://github.com/SamuelRocha91/kotlinExchangeRate)
 - 👤 [Social Login](https://github.com/SamuelRocha91/kotlinLoginSocial)
 
-</details>
 
-<details>
 <sumary><h2> 🔴️ Projetos Ruby </h2> </summary>
 
 - 📽️ [Rails Movie](https://github.com/SamuelRocha91/rails_movies_catalog)
 - 👩‍⚖️[Odin Exercises](https://github.com/SamuelRocha91/ruby_exercises)
 
-</details>
 
-<details>
 <sumary><h2> 🎲️ Banco de dados </h2> </summary>
 
 - 🚗️ [Rental Car](https://github.com/SamuelRocha91/dbRentalCar)
 
-</details>
-
-<details>
 <sumary><h2> 🐍️ Projetos Python </h2> </summary>
 
 - 7⃣️ [Algorithms](https://github.com/SamuelRocha91/Algorithms)
 - 🍲️ [Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders)
 -  ✍️ [Scripts](https://github.com/SamuelRocha91/scripts)
 - 🕵️‍♀️ [Trybe is not google](https://github.com/SamuelRocha91/trybeIsNotGoogle)
-</details>
 
 </details>
-
 <details>
 <summary><h2>🧑 Sobre Mim:</h2></summary>
 <p>Samuel Rocha, baiano🇧🇷, soteropolitano⚫🔴 e desenvolvedor web.</p>
