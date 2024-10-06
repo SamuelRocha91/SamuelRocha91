@@ -156,6 +156,15 @@
 </details>
 
 <details>
+<summary><h2> Nota do autor</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      Peço-lhe perdão pelo tanto de cores e emojis a que foste submetido(a). Foi minha humilde e irritante forma de tentar chamar a sua atenção para minha dedicação e esforço. Espero ao menos que alguma criança que você conheça possa ler o texto e aprovar essa baderna. Gratidão
+    </p>
+  </div>
+</details>
+
+<details>
 <summary><h2>📊 Estatísticas do Meu GitHub:</h2></summary>
 
 [![SamuelRocha91 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRocha91)](https://github.com/SamuelRocha91/github-readme-stats)
