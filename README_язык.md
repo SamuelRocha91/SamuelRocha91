@@ -80,7 +80,7 @@
 - 🕵️‍♀️ [Trybe не Google](https://github.com/SamuelRocha91/trybeIsNotGoogle/blob/main/README_ru.md)
 
 </details>
-
+<details>
 <summary><h2>🧑 Обо Мне:</h2></summary>
 <p>Самуэл Роша, из Баии🇧🇷, родом из Сальвадора⚫🔴, веб-разработчик.</p>
 
@@ -136,7 +136,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuel_sr)
 </details>
 
-<details>
 
 <details>
 <summary><h2>🤓️ Философия:</h2></summary>
@@ -156,6 +155,7 @@
     </p>
   </div>
 </details>
+<details>
 
 <summary><h2>📊 Статистика Моего GitHub:</h2></summary>
 
