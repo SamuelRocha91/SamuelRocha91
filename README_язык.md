@@ -9,7 +9,7 @@
 <br>
 
 <div>
-  <p>Как я могу помочь? 🥰</p>
+  <p>Как я могу помочь? </p>
   <p>Мой GitHub постоянно меняется 🏃</p>
   <p>Ниже представлена текущая стандартизация репозитория (или в процессе реализации🫠️)</p>
 
@@ -139,7 +139,7 @@
 
 
 <details>
-<summary><h2>🤓️ Философия:</h2></summary>
+<summary><h2> Философия:</h2></summary>
  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
     <img src="./cuidadoCOmOTrem.jpeg" style="max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;"/>
     <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
