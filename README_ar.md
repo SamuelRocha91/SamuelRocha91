@@ -14,6 +14,7 @@
 
 <summary><h2> 🎭️ مشاريع React </h2> </summary>
 
+  - 🌶️ [تطبيق الوصفات](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_ar.md)
 - 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game/blob/main/README_ar.md)
 - 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex/blob/main/README_ar.md)
 - 🏪 [متجر على الإنترنت للواجهة الأمامية](https://github.com/SamuelRocha91/project-frontend-online-store/blob/main/README_ar.md)
