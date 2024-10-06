@@ -115,7 +115,6 @@
   <li>💬 Discord: samuelrocha91#1543</li>
 </ul>
 </details>
-<details>
 
 <details>
 <summary><h2>🤓️ الفلسفة:</h2></summary>
@@ -136,7 +135,7 @@
   </div>
 </details>
 
-
+<details>
 <summary><h2>📊 إحصائيات GitHub الخاصة بي:</h2></summary>
 
 [![SamuelRocha91 GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelRocha91)](https://github.com/SamuelRocha91/github-readme-stats)
