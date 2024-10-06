@@ -18,6 +18,7 @@
 - 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex/blob/main/README_es.md)
 - 🏪 [Tienda Online FrontEnd](https://github.com/SamuelRocha91/project-frontend-online-store/blob/main/README_es.md)
 - 👛 [Organizador de Gastos](https://github.com/SamuelRocha91/project-trybewallet/blob/main/README_es.md)
+- 🌶️ [Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp/blob/main/README_es.md)
 
 <summary><h2> 🪢️ Proyectos de Node </h2> </summary>
 
