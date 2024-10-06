@@ -49,7 +49,7 @@
   - 📏 [React Precision Application](https://github.com/SamuelRocha91/precisionReactApplication) - Interface de cadastro de medições de gás e de água
   - 🤖 [Node API](https://github.com/SamuelRocha91/apiMeasureWaterAndGas) - Api de medição e cadastro de consumo
 
-
+<hr/>
 <sumary><h2> ☕️ Projetos Java </h2> </summary>
 
 - 🌾 [Projeto Java Agrix - Gerenciamento de Fazendas](https://github.com/SamuelRocha91/Agrix) 
