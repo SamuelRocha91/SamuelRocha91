@@ -8,7 +8,7 @@
 <br>
 
 <div>
-  <p>¿Cómo puedo ayudarte? 🥰</p>
+  <p>¿Cómo puedo ayudarte? </p>
   <p>Mi GitHub está en constante cambio 🏃</p>
   <p>Abajo está la estandarización actual del repositorio (o en implementación🫠️)</p>
 
@@ -137,7 +137,7 @@
 </details>
 
 <details>
-<summary><h2>🤓️ Filosofía:</h2></summary>
+<summary><h2>Filosofía:</h2></summary>
  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
     <img src="./cuidadoCOmOTrem.jpeg" style="max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;"/>
     <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
