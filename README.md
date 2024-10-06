@@ -5,43 +5,105 @@
 
 
 <details>
-<summary>👋 Olá, tudo bem?</summary>
-
+<summary> <h2>👋 Olá, tudo bem? </h2> </summary>
+<br>
 
 <div>
   <p>Como posso ajudar? 🥰</p>
-  <p>Que tal dar uma olhadinha no nosso menu? 🧾</p>
-    
-#### 🍽️ [Projeto Kotlin Virtual Menu](https://github.com/SamuelRocha91/kotlinVirtualMenu)
-  
-Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir receitas incríveis com o nosso App?! 🍽️😋
-
-#### 👨‍🍳 [React Recipes App](https://github.com/SamuelRocha91/ProjectRecipesApp)
-
-</div>
-
-<p>Se o seu desafio é gerenciar sua fazenda, encontrou o lugar certo! 🎯</p>
-
-#### 🌾 [Projeto Java Agrix - Gerenciamento de Fazendas](https://github.com/SamuelRocha91/Agrix) 
-
-<p>Porque, afinal, como haveria alimento sem quem o produz? 🤔👀</p>
-
-<p>Conte com o WeatherApp📱 pra acompanhar as condições climáticas de sua terra</p>
-  
-#### 🌦️ [Projeto Kotlin Acompanhamento de clima](https://github.com/SamuelRocha91/kotlinWeatherApp) 
-
-<p>Gerencie seu consumo de água e gás com ajuda de Inteligência Artificial 🤖</p>
-
-#### 🛢️💧 [Projeto React de Medição de Consumo](https://github.com/SamuelRocha91/precisionReactApplication)
-
-<p>Mas em verdade eu vos digo: toda aplicação de alimento é pouca. 🤪🚀🤷 </p>
-<p>Vamos juntos superar os gargalos da comercialização de alimentos! 💯🥗</p>
+  <p>Meu github está em constante mudança 🏃</p>
+  <p>Segue abaixo a atual padronização de repositórios (ou em implementação🫠️)</p>
 
 
-#### 📦 [Backend - Ruby On Rails](https://github.com/SamuelRocha91/delivery_back)
-#### 👨‍💻 [Frontend - Vue.js && Typescript (Consumidor)](https://github.com/SamuelRocha91/consumy)
-#### 👨‍💻 [Frontend - Vue.js && Typescript (Vendedor)](https://github.com/SamuelRocha91/seller_application)
+<details>
+<sumary><h2> 🎭️ Projetos React </h2> </summary>
+
+- 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game)
+- 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex)
+- 🏪 [FrontEnd Online Store](https://github.com/SamuelRocha91/project-frontend-online-store)
+- 👛 [Expense organizer](https://github.com/SamuelRocha91/project-trybewallet)
 </details>
+
+<details>
+<sumary><h2> 🪢️ Projetos Node </h2> </summary>
+
+- 🗡️ [Trybe Smith](https://github.com/SamuelRocha91/TrybeSmith)
+- 🪧 [Blogs Api](https://github.com/SamuelRocha91/BlogsApi)
+- 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons)
+- ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube)
+</details>
+
+<details>
+<sumary><h2> 👶️ Projetos de iniciantes </h2> </summary>
+
+- 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
+- 📝 [Todo List](https://github.com/SamuelRocha91/TodoList)
+- 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator)
+- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator)
+- 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets)
+
+</details>
+<details>
+
+<sumary><h2> 🔋️ Projetos Full-Stack </h2> </summary>
+
+### Delivery
+  - 💎 [Delivery Backend](https://github.com/SamuelRocha91/delivery_back) - Aplicação backend em Rails para a plataforma de delivery
+  - 🛒 [Consumy Application](https://github.com/SamuelRocha91/consumy) - Aplicação do consumidor
+  - 👨‍💼 [Seller Application](https://github.com/SamuelRocha91/seller_application) - Aplicação do vendedor
+  - 💲 [Paymenty API](https://github.com/SamuelRocha91/paymenty) - API de pagamento
+
+### Measurement APi
+  - 📏 [React Precision Application](https://github.com/SamuelRocha91/precisionReactApplication) - Interface de cadastro de medições de gás e de água
+  - 🤖 [Node API](https://github.com/SamuelRocha91/apiMeasureWaterAndGas) - Api de medição e cadastro de consumo
+</details>
+
+<details>
+
+<sumary><h2> ☕️ Projetos Java </h2> </summary>
+
+- 🌾 [Projeto Java Agrix - Gerenciamento de Fazendas](https://github.com/SamuelRocha91/Agrix) 
+- 🏛️ [Localizador de Museus](https://github.com/SamuelRocha91/localizadorDeMuseus)
+- 📃 [Regras de Progressão](https://github.com/SamuelRocha91/project_rule_of_progression)
+- 🗳️ [Sistema de Votação](https://github.com/SamuelRocha91/sistemaDeVotacao)
+</details>
+
+<details>
+<sumary><h2> 📱️ Projetos Kotlin </h2> </summary>
+
+- 📜 [Virtual Menu](https://github.com/SamuelRocha91/kotlinVirtualMenu)
+-  ☀️ [Weather App](https://github.com/SamuelRocha91/kotlinWeatherApp)
+- 💱 [kotlin Exchange Rate](https://github.com/SamuelRocha91/kotlinExchangeRate)
+- 👤 [Social Login](https://github.com/SamuelRocha91/kotlinLoginSocial)
+
+</details>
+
+<details>
+<sumary><h2> 🔴️ Projetos Ruby </h2> </summary>
+
+- 📽️ [Rails Movie](https://github.com/SamuelRocha91/rails_movies_catalog)
+- 👩‍⚖️[Odin Exercises](https://github.com/SamuelRocha91/ruby_exercises)
+
+</details>
+
+<details>
+<sumary><h2> 🎲️ Banco de dados </h2> </summary>
+
+- 🚗️ [Rental Car](https://github.com/SamuelRocha91/dbRentalCar)
+
+</details>
+
+<details>
+<sumary><h2> 🐍️ Projetos Python </h2> </summary>
+
+- 7⃣️ [Algorithms](https://github.com/SamuelRocha91/Algorithms)
+- 🍲️ [Restaurant Orders](https://github.com/SamuelRocha91/restaurantOrders)
+-  ✍️ [Scripts](https://github.com/SamuelRocha91/scripts)
+- 🕵️‍♀️ [Trybe is not google](https://github.com/SamuelRocha91/trybeIsNotGoogle)
+</details>
+
+</details>
+
 <details>
 <summary><h2>🧑 Sobre Mim:</h2></summary>
 <p>Samuel Rocha, baiano🇧🇷, soteropolitano⚫🔴 e desenvolvedor web.</p>
@@ -97,11 +159,21 @@ Está com aquela fome ou quer impressionar alguém especial? Que tal descobrir r
 </details>
 
 <details>
-<summary><h2>📚 Grupo de Leitura:</h2></summary>
+<summary><h2>📖️ Grupo de Leitura:</h2></summary>
 <p>
   Estou tentando formar um grupo de leitura na área de tecnologia para debates quinzenais sobre capítulos de livros ininteligíveis. 
   Se tiver interesse, me manda um "☀️Aôooo"! 😅👍
 </p>
+</details>
+
+<details>
+<summary><h2>🤓️ Filosofia:</h2></summary>
+ <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
+    <img src="./cuidadoCOmOTrem.jpeg" style="max-width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;"/>
+    <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
+      "Vamos em frente, plantando bananeira, sem olhar pra trás, afinal de contas: uma hora o trem vai chegar" - Autor baiano desconhecido 😅️
+    </p>
+  </div>
 </details>
 
 <details>
