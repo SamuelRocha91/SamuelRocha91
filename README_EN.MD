@@ -145,7 +145,7 @@
 </div>
 
 > "Let’s move forward, doing a handstand, without looking back; after all: one day the train will arrive." 
->  Unknown author from Bahia 😅️
+> - Unknown author from Bahia 😅️
 
 </details>
 
