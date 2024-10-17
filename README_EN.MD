@@ -138,18 +138,6 @@
 </details>
 
 <details>
-<summary><h2>Philosophy:</h2></summary>
-  
-<div style="max-width: 500px; margin: auto;">
-  <img src="./cuidadoCOmOTrem.jpeg" style="width: 500px; height: 500px; border-radius: 4px;"/>
-</div>
-
-> "Let’s move forward, doing a handstand, without looking back; after all: one day the train will arrive." 
-> - Unknown author from Bahia 😅️
-
-</details>
-
-<details>
 <summary><h2> Author's Note</h2></summary>
  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
     <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
