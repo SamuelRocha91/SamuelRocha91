@@ -139,26 +139,6 @@
 </details>
 
 <details>
-<summary><h2>📖️ Grupo de Leitura:</h2></summary>
-<p>
-  Estou tentando formar um grupo de leitura na área de tecnologia para debates quinzenais sobre capítulos de livros ininteligíveis. 
-  Se tiver interesse, me manda um "☀️Aôooo"! 😅👍
-</p>
-</details>
-
-<details>
-<summary><h2> Filosofia:</h2></summary>
-  
-<div style="max-width: 500px; margin: auto;">
-  <img src="./cuidadoCOmOTrem.jpeg" style="width: 500px; height: 500px; border-radius: 4px;"/>
-</div>
-
-> "Vamos em frente, plantando bananeira, sem olhar pra trás, afinal de contas: uma hora o trem vai chegar"  
-> — Autor baiano desconhecido 😅️
-
-</details>
-
-<details>
 <summary><h2> Nota do autor</h2></summary>
  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
     <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">

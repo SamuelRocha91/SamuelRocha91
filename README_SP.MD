@@ -136,17 +136,7 @@
 
 </details>
 
-<details>
-<summary><h2>Filosofía:</h2></summary>
-
-<div style="max-width: 500px; margin: auto;">
-  <img src="./cuidadoCOmOTrem.jpeg" style="width: 500px; height: 500px; border-radius: 4px;"/>
-</div>
-
-> "Sigamos adelante, haciendo una parada de manos, sin mirar atrás; después de todo: un día llegará el tren."
-
-> — Autor desconocido de Bahia 😅️
-</details>
+---
 
 <details>
 <summary><h2> Nota del Autor</h2></summary>

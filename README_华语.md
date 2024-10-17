@@ -138,17 +138,6 @@
 </details>
 
 <details>
-<summary><h2> 哲学：</h2></summary>
-  <div style="max-width: 500px; margin: auto;">
-  <img src="./cuidadoCOmOTrem.jpeg" style="width: 500px; height: 500px; border-radius: 4px;"/>
-</div>
-
-> "让我们前进，做倒立，不回头；毕竟：总有一天火车会到达。" 
-
-> — - 巴伊亚的未知作者 😅️
-</details>
-
-<details>
 <summary><h2> 作者说明</h2></summary>
  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
     <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">

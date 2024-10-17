@@ -116,19 +116,7 @@
   <li>💬 Discord: samuelrocha91#1543</li>
 </ul>
 </details>
-
-<details>
-<summary><h2>الفلسفة:</h2></summary>
-
-<div style="max-width: 500px; margin: auto;">
-  <img src="./cuidadoCOmOTrem.jpeg" style="width: 500px; height: 500px; border-radius: 4px;"/>
-</div>
-
->    "دعنا نتقدم، نقوم بعمل وقفة رأسية، دون النظر إلى الوراء؛ بعد كل شيء: سيأتي القطار في يوم من الأيام." 
->  - مؤلف غير معروف من باهيا 😅️
- 
-   
-</details>
+---
 
 <details>
 <summary><h2> ملاحظة المؤلف</h2></summary>
