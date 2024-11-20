@@ -92,11 +92,6 @@
 
 <details>
 
-<summary><h2>💻 Mis Intereses:</h2></summary>
-<p>Abierto a intercambiar experiencias, crear nuevos proyectos, recibir ofertas de trabajo y hacer nuevas amistades</p>
-</details>
-<details>
-
 <summary><h2>📚 Áreas de Estudio:</h2></summary>
 
 ### 🖥️ Front-End: 
