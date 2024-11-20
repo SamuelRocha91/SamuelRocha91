@@ -90,12 +90,6 @@
 </details>
 
 <details>
-
-<summary><h2>💻 My Interests:</h2></summary>
-<p>Open to exchanging experiences, creating new projects, receiving job offers, and making new friends</p>
-</details>
-
-<details>
 <summary><h2>📚 Areas of Study:</h2></summary>
 
 ### 🖥️ Front-End: 
