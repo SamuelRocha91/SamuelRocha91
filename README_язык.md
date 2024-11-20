@@ -1,7 +1,7 @@
 <h1>:sunny: Аôoooooooooooooooooooooo! </h1>
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
-
+> *Примечание: Переводы выполнены для удобства сообщества, они не отражают моего языкового мастерства и могут содержать неточности. Не стесняйтесь предлагать улучшения.
 
 
 <details>
@@ -88,12 +88,6 @@
 [![Full-Stack Web Development Course](https://img.shields.io/badge/-Certified_Web_Developer-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.credential.net/ad5e0984-fa07-41b0-a50b-51cb25fd0010#gs.ffccza)
 [![Certified Java Developer](https://img.shields.io/badge/-Certified_Java_Developer-red?style=flat&logo=java&logoColor=white)](https://www.credential.net/b0eedfe8-4280-4cc4-b832-49f1d9426664#gs.ffcj0a)
 [![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-yellow?style=flat&logo=javascript&logoColor=white)](https://www.freecodecamp.org/certification/Sam_sr91/javascript-algorithms-and-data-structures)
-</details>
-
-<details>
-
-<summary><h2>💻 Мои Интересы:</h2></summary>
-<p>Открыт для обмена опытом, создания новых проектов, получения предложений по работе и обретения новых друзей</p>
 </details>
 
 <details>
