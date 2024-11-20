@@ -2,6 +2,7 @@
 
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
+> *Nota:*As traduções foram feitas para acessibilidade da comunidade, não refletem meu domínio linguístico e podem conter imprecisões. Sinta-se à vontade para sugerir melhorias.
 
 
 <details>
