@@ -1,8 +1,7 @@
 <h1>:sunny: Aôoooooooooooooooooooooo! </h1>
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
-*注意： 翻译是为了方便社区访问，不代表我的语言能力，可能存在不准确之处。欢迎提出改进建议
-
+> *注意：* 翻译是为了方便社区访问，不代表我的语言能力，可能存在不准确之处。欢迎提出改进建议
 
 <details>
 <summary> <h2>👋 你好，你好吗？ </h2> </summary>
@@ -90,6 +89,7 @@
 [![Certified Java Developer](https://img.shields.io/badge/-Certified_Java_Developer-red?style=flat&logo=java&logoColor=white)](https://www.credential.net/b0eedfe8-4280-4cc4-b832-49f1d9426664#gs.ffcj0a)
 [![JavaScript Algorithms and Data Structures](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-yellow?style=flat&logo=javascript&logoColor=white)](https://www.freecodecamp.org/certification/Sam_sr91/javascript-algorithms-and-data-structures)
 </details>
+<details>
 
 <summary><h2>📚 学习领域：</h2></summary>
 
