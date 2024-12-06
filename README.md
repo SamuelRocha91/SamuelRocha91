@@ -103,7 +103,8 @@
 </details>
 <details>
 <summary><h2>💻 Meus Interesses:</h2></summary>
-<p>Aberto a trocar experiências, criar novos projetos, receber propostas laborais e fazer novas amizades </p>
+<p>Aberto a trocar experiências, criar novos projetos, receber propostas laborais(hey, aceito indicações 😉 <a href="./SamuelRocha-FullStack.pdf" download="SamuelRocha.pdf">Baixar Currículo</a>) e a fazer novas amizades(um clique nos separa 🖱️).</p>
+<p></p>
 </details>
 <details>
 <summary><h2>📚 Áreas de Estudo:</h2></summary>
