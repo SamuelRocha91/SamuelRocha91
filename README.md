@@ -16,6 +16,7 @@
 
 
 <sumary><h2> 🎭️ Projetos React </h2> </summary>
+
 - 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game)
 - 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex)
 - 🏪 [FrontEnd Online Store](https://github.com/SamuelRocha91/project-frontend-online-store)
@@ -28,6 +29,11 @@
 - 🪧 [Blogs Api](https://github.com/SamuelRocha91/BlogsApi)
 - 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons)
 - ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube)
+
+<sumary><h2> 🧑‍🎓 Projetos Acadêmicos </h2> </summary>
+
+- 🌳 [Pando ADS](https://github.com/SamuelRocha91/PandoAds)
+
 
 <sumary><h2> 👶️ Projetos de iniciantes </h2> </summary>
 
@@ -70,6 +76,7 @@
 <sumary><h2> 🔴️ Projetos Ruby </h2> </summary>
 
 - 📽️ [Rails Movie](https://github.com/SamuelRocha91/rails_movies_catalog)
+- 🍴 [Rails "Pa levá"](https://github.com/SamuelRocha91/rails_paleva)
 - 👩‍⚖️[Odin Exercises](https://github.com/SamuelRocha91/ruby_exercises)
 
 
