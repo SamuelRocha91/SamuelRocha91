@@ -2,7 +2,7 @@
 
 
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/SamuelRocha91/blob/main/README_ar.md)
-> *Nota:*As traduções foram feitas para acessibilidade da comunidade, não refletem meu domínio linguístico e podem conter imprecisões. Sinta-se à vontade para sugerir melhorias.
+> *Nota:* As traduções foram feitas para acessibilidade da comunidade, não refletem meu domínio linguístico e podem conter imprecisões. Sinta-se à vontade para sugerir melhorias.
 
 
 <details>
@@ -16,6 +16,7 @@
 
 
 <sumary><h2> 🎭️ Projetos React </h2> </summary>
+
 - 🎮 [Trivia](https://github.com/SamuelRocha91/trivia_game)
 - 🐣 [Pokedex](https://github.com/SamuelRocha91/pokedex)
 - 🏪 [FrontEnd Online Store](https://github.com/SamuelRocha91/project-frontend-online-store)
@@ -29,6 +30,11 @@
 - 🐉 [Trybers and Dragons](https://github.com/SamuelRocha91/trybeAndDragons)
 - ⚽ [Typescript FootBall API](https://github.com/SamuelRocha91/trybeFutebolClube)
 
+<sumary><h2> 🧑‍🎓 Projetos Acadêmicos </h2> </summary>
+
+- 🌳 [Pando ADS](https://github.com/SamuelRocha91/PandoAds)
+
+
 <sumary><h2> 👶️ Projetos de iniciantes </h2> </summary>
 
 - 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
@@ -37,6 +43,7 @@
 - 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator)
 - 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator)
 - 🪐 [Star Wars Planets](https://github.com/SamuelRocha91/javascriptStarWarsPlanets)
+- ☀️ [Portfólio Web](https://github.com/SamuelRocha91/samuelrocha91.github.io)
 
 
 <sumary><h2> 🔋️ Projetos Full-Stack </h2> </summary>
@@ -70,6 +77,7 @@
 <sumary><h2> 🔴️ Projetos Ruby </h2> </summary>
 
 - 📽️ [Rails Movie](https://github.com/SamuelRocha91/rails_movies_catalog)
+- 🍴 [Rails "Pa levá"](https://github.com/SamuelRocha91/rails_paleva)
 - 👩‍⚖️[Odin Exercises](https://github.com/SamuelRocha91/ruby_exercises)
 
 
