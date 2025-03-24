@@ -102,15 +102,7 @@
   <li>💡 تقنيات أخرى: Docker، MySQL، Express، Redux، Jest، JUnit</li>
 </ul>
 </details>
-<details>
-<summary><h2>📫 كيفية التواصل:</h2></summary>
-<ul>
-  <li>💼 <a href="https://www.linkedin.com/in/samuel-rocha-88278224a/" target="_blank">LinkedIn</a></li>
-  <li>📱 <a href="https://wa.me/71992594946" target="_blank">WhatsApp</a></li>
-  <li>📧 <a href="mailto:samuel_sr@hotmail.com.br">البريد الإلكتروني</a></li>
-  <li>💬 Discord: samuelrocha91#1543</li>
-</ul>
-</details>
+
 ---
 
 <details>

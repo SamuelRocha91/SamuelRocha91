@@ -120,18 +120,6 @@
 </details>
 
 <details>
-
-<hr/>
-<summary><h2>📫 Как Со Мной Связаться:</h2></summary>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rocha-88278224a/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/71992594946)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuel_sr@hotmail.com.br)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/samuelrocha91#1543)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuel_sr)
-</details>
-
-<details>
 <summary><h2> Заметка автора</h2></summary>
  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; background-color: #f9f9f9; margin-top: 8px;">
     <p style="line-height: 1.6; color: #555; font-size: 1.1em; margin: 0; text-align:center">
